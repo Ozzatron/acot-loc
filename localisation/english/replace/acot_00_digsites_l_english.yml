@@ -1,0 +1,287 @@
+﻿l_english:
+ 
+######################### VAULT OF SORROW ###################################
+ 
+acot_modifier_relic_amerigo_cooldown: "A'merigo Cooldown"
+acot_modifier_relic_amerigo_cooldown_desc: "A'merigo Cooldown"
+
+acot_modifier_precursor_digsite: "Ancient World"
+acot_modifier_precursor_digsite_desc: "This World appears to have existed for a very long time, its composition only holding due to abnormalities present on the planet's surface."
+ 
+sites_acot_old_warfield: "Ghosts of the Past"
+acot_old_warfield_digsite_desc: "A strange rift has brought a massive amount of ship remains here creating a gigantic spaceship graveyard here, where thousands of ancient yet advanced debris are scattered across various parts of the planet's fractured surface. Scannings indicate that these ruins bear the marks of at least 364 different galactic civilizations, some of which match that of the fallen empire's insignia.\n\nWhile ship graveyards like this are not uncommon, what makes this one extremely special, is that we detect that many ships here do not match any known designs of past records, some appears to actually be intact, almost untouched.\n\nA massive space station in the epicenter seems to hold the clues to the puzzle, we should investigate."
+ 
+acot_digsite_events.1.name: "Ghosts of the Past"
+acot_digsite_events.1.desc.a: "Something peculiar has happened on the surface of §Y[from.GetName]§!, there are sightings of various flash of lights, akin to that of dimensional rifts, they appear to shift large amounts of destroyed ships, forming into a massive ship graveyard. Our initial surveys failed to detect them due to the violent storms tampering with our sensors.\n\nAt the epicenter of this strange phenomenon is a massive ancient precursor station, and is believed to be the source of the rifts."
+acot_digsite_events.1.desc.b: "Something weird is happening on our capital of §Y[from.GetName]§!, there are sightings of various flash of lights, akin to that of dimensional rifts, they appear to shift large amounts of destroyed ships, forming into a massive ship graveyard. Whatever they are, they were not there before when our world was still normal.\n\nAt the epicenter of this strange phenomenon is a massive ancient precursor station, and is believed to be the source of the rifts. However, given our lack of knowledge and technology at the moment, it may not be wise to explore it hastily yet."
+acot_digsite_events.1.a: "How peculiar..."
+acot_digsite_events.1.b: "We shall see."
+ 
+######################### CHAPTER ONE ###################################
+ 
+acot_digsite_events.2.name: "Ghosts of the Past - Chapter One"
+acot_digsite_events.2.desc.stupid: "The Excavation Team has finally pinpointed a large superstructure amongst the endless expanse of graveyards. Initial scans indicate that 97.35% of the structure's exterior hull is intact. The structure bears striking resemblances to a Fallen Empire's citadel, albeit of much more ancient designs.\n\nThe massive energy readings have been located inside a massive vault, but it's entry is barred by some kind of ancient mechanism that must be bypassed. The Team has also located massive amounts of minor artifacts scattered across the area and large stockpiles of both dark matter and dark energy deposits.\n\nSome of the scientists advises we return the artifacts to their proper locations, while the military commanders believe resources could be of great use to our war efforts. Experts however believe we should delay the exploration until we understand more of these ancient technologies."
+acot_digsite_events.2.desc.smart: "The Excavation Team has finally pinpointed a large superstructure amongst the endless expanse of graveyards. Initial scans indicate that 97.35% of the structure's exterior hull is intact. The structure bears striking resemblances to a Fallen Empire's citadel, albeit of much more ancient designs.\n\nThe massive energy readings have been located inside a massive vault, but it's entry is barred by some kind of ancient mechanism that must be bypassed. The Team has also located massive amounts of minor artifacts scattered across the area and large stockpiles of both dark matter and dark energy deposits.\n\nBased on our knowledge and familiarities with the technology, we are able to quickly identify the purpose of the artifacts and the resources required for the system to work."
+acot_digsite_events.2.a: "Finder's Keeper!"
+acot_digsite_events.2.a.explain: "We decided to take away the artifacts and the stockpiles. They are most likely to be remains from other ships, better to put them to good use."
+acot_digsite_events.2.b: "Leave the artifacts, take only the stockpiles!"
+acot_digsite_events.2.b.explain: "We decide to keep the artifacts around, and take away only the stockpiles. The artifacts may come in handy later on."
+acot_digsite_events.2.c: "Touch nothing! They can be dangerous!"
+acot_digsite_events.2.c.explain: "It is best to not touch things we do not know. Perhaps both of these elements will be useful for the team later."
+acot_digsite_events.2.d: "This puzzle is easily solved."
+acot_digsite_events.2.d.explain: "We have expertly aligned the artifacts into the mechanism, then charged it with optimal level of powers using the stockpiles. Any leftover has been gathered for other purposes. A trivial task."
+acot_digsite_events.2.e: "This knowledge is forbidden, sabotage the operation."
+acot_digsite_events.2.e.explain: "Ancient horrors like these are best kept hidden and laid to rest. We will pluck away at each piece and takes away what is deemed useful, and ensure that what remains will result in the failure of the excavation."
+ 
+######################### CHAPTER TWO ###################################
+ 
+acot_digsite_events.3.name: "Ghosts of the Past - Chapter Two"
+acot_digsite_events.3.a.desc: "§RCritical Mission Failure§!\n\nAfter multiple fruitless efforts to solve the mechanism without any key components, the team is left with one choice; to recharge the system using foreign power source. However, it became very clear to the team very soon that this is not how the mechanism is meant to be solved. The system does not recognize our power source and becomes increasingly unstable.\n\nBefore anything can be done, the vault exploded and caused a massive chain reaction towards each and every derelict ship on the surface, creating the largest explosion ever recorded in history. The planet itself cracked and exploded, leaving us with nothing but a broken shell and possibilities of any scientific discovery shattered.\n\nThat said, there may still be something of value in this broken mess."
+acot_digsite_events.3.a.1: "Uh Oh."
+ 
+acot_digsite_events.3.b.desc: "§RThe Sacrifice§!\n\nThe team is able to finally utilize the artifacts to reassemble the mechanism. But then suddenly an alarm is sounded, the mechanism stating "ERROR! ERROR! INSUFFICIENT RESOURCE...SWITCHING TO CONSUMPTION MODE". The system then, without warning, traps the Excavation Team and processes them into materials which the system then uses to unlock itself. The entire team has been reported KIA.\n\nRegardless, their last datalog indicates that the path to the Vault is now finally open to us."
+acot_digsite_events.3.b.1: "Not Good."
+ 
+acot_digsite_events.3.c.desc: "§RThe Ghost Machine§!\n\nThe team is able to finally utilize the artifacts to reassemble the mechanism. The mechanism then seems to draw energy from the dark matter and dark energy scattered across the area. However, just as when things are going as planned and the excavation is prepared to take some hard-earned breaks and rest, the mechanism then sounds an alarm. "ERROR! Energy Capacity Reached! Allocating Resources to Inactive Vessels!"\n\nIt is then that massive energy readings begin to appear across various derelict ships scattered across the graveyard. They begin to rise, their damaged hulls are rapidly repaired by some unknown means.\n\nThe risen ships show no signs of life and seem to be totally automated, their computers quickly detect that other restored ships do not belong to the same faction as them, and thus do they resume their ancient battles.\n\nRegardless, the path to the Vault is now finally open to us, we simply need to clear up this mess."
+acot_digsite_events.3.c.1: "Oh, crap."
+ 
+acot_digsite_events.3.d.desc: "The team is able to finally utilize the artifacts to reassemble the mechanism. Everything went smoothly as expected. The team not only managed to open the path but were able to recover extra resources and gain various insights into the workings of the vault's exterior design and security measures. Apparently, our instincts and theories have been proven correct, things could have gone much worse had we not choose wisely. The mechanism could not operate with any kind of materials or resources save for the ones located around the vault. At worst, it would have exploded and destroyed the planet in a chain reaction. The system would have also reactively harvested nearby materials to substitute the missing stockpiles, this can include biological and mechanical materials, which would have put the Excavation Team at great risk. Finally, if too much resources were to be provided, the system would have allocated exceeding resources to power up inactive warships and repair damaged hulls through hard-light reassembling. It would have been a disaster as the ships would run on ancient IFF systems and begin their long-forgotten wars over again.\n\nThe Path to the Vault is now open!"
+acot_digsite_events.3.d.1: "Well done, all!"
+ 
+ 
+acot_digsite_events.300.name: "Critical Mission Failure"
+acot_digsite_events.300.desc: "After multiple fruitless efforts to solve the mechanism without any key components, the team is left with one choice; to recharge the system using foreign power source. However, it became very clear to the team very soon that this is not how the mechanism is meant to be solved. The system does not recognize our power source and becomes increasingly unstable.\n\nBefore anything can be done, the vault exploded and caused a massive chain reaction towards each and every derelict ship on the surface, creating the largest explosion ever recorded in history. The planet itself cracked and exploded, leaving us with nothing but a broken shell and possibilities of any scientific discovery shattered.\n\nThat said, there may still be something of value in this broken mess."
+acot_digsite_events.300.a: "Woops..."
+ 
+acot_digsite_events.301.name: "Ghosts of the Past - The Sacrifice"
+acot_digsite_events.301.desc: "The team is able to finally utilize the artifacts to reassemble the mechanism. But then suddenly an alarm is sounded, the mechanism stating "ERROR! ERROR! INSUFFICIENT RESOURCE...SWITCHING TO CONSUMPTION MODE". The system then without warning, traps the Excavation Team and processes them into materials which the system then uses to unlock itself. The entire team has been reported KIA.\n\nRegardless, their last data log indicates that the path to the Vault is now finally open to us."
+acot_digsite_events.301.a: "Their sacrifices won't be in vain."
+ 
+acot_digsite_events.302.name: "Ghosts of the Past - The Ghost Machines"
+acot_digsite_events.302.desc: "The team is able to finally utilize the artifacts to reassemble the mechanism. The mechanism then seems to draw energy from the dark matter and dark energy scattered across the area. However, just as when things are going as planned and the excavation is prepared to take some hard-earned breaks and rest, the mechanism then sounds an alarm. "ERROR! Energy Capacity Reached! Allocating Resources To Inactive Vessels!"\n\nIt is then that massive energy readings begin to appear across various derelict ships scattered across the graveyard. They begin to rise, their damaged hulls are rapidly repaired by some unknown means.\n\nThe risen ships show no signs of life and seem to be totally automated, their computers quickly detect that other restored ships do not belong to the same faction as them, and thus do they resumed their ancient battles.\n\nRegardless, the path to the Vault is now finally open to us, we simply need to clear up this mess."
+acot_digsite_events.302.a: "Evacuate the Team! All hands-on deck!"
+ 
+######################### CHAPTER THREE ###################################
+ 
+acot_digsite_events.4.name: "Ghosts of the Past - Chapter Three"
+acot_digsite_events..4.name: "The Cost of Greed"
+acot_digsite_events.4.a.desc: "§RThe Cost of Greed§!\n\nAfter countless efforts searching through the remains of this once ancient world, the new team has concluded that there is almost absolutely nothing of scientific values left to be studied at all. Our stupidity and greed has caused us dearly and the only thing left amongst this shattered world is a small dent of leftover debris.\n\nBut the team is convinced that there is perhaps something left to be studied."
+acot_digsite_events.4.a.1: "If only we were not so dumb..."
+ 
+acot_digsite_events.4.b.desc: "§YGhosts of the Past§!\n\nThe Vault has successfully been breached, and the expedition team has made as much study as they can from its interior. The vault is ancient but extremely advanced. Remains of dead aliens are found everywhere, many of which seem to be wearing lab coats and working uniforms. This leads up to believe this ship must have been a science vessel of some kind, albeit on a much larger scale than one typically fielded by any we have seen.\n\nEventually, the team reaches a big chamber which appears to be a reactor room. Perhaps with some kind of power source, we may be able to power up the entire vault again?\n\nIf we are to use more advanced reactors, we will need sufficient resources to install them. The options will not appear if we do not have enough resources or technologies."
+acot_digsite_events.4.b.1: "Hmm...use 2200-era Fusion Reactor."
+acot_digsite_events.4.b.1.explain: "Ancient though these technologies maybe, they cannot be compared to the awesome reactor our people developed in 2200. It is better to save up resources for more important tasks.\n\nIf this stupid ship cannot operate on a Fusion Reactor, then it clearly is too weak, too pathetic to be of any use to us anyway."
+acot_digsite_events.4.b.2: "Zero Point Reactor should do."
+acot_digsite_events.4.b.2.explain: "Zero Point Reactor represents the most advanced modern reactor utilized by the galactic community, it generates sufficient output to power even the Juggernaut and requires relatively low costs. It should be sufficient to power up important parts of the ship."
+acot_digsite_events.4.b.3: "Try the Enhanced ZP Reactor."
+acot_digsite_events.4.b.3.explain: "There is no telling just how much do you need energy to operate this level of technology. Our goal is to gain entrance, not to light the whole place up, some of our archelogists argue that we should maintain the delicate balance between how much we feed the energy. The enhanced version of the Zero Point Reactor provides the most optimal condition for this. It should provide sufficient power, without awakening other surprise mechanics the system may has in store."
+acot_digsite_events.4.b.4: "Use the Delta Reactor."
+acot_digsite_events.4.b.4.explain: "There is no doubt that this is yet another relic of the ancient precursors, which means at the bare minimum we can expect that Enigmatic energies will be involved. Delta Reactor seems to slot in perfectly into this puzzle, and may be just what we need to get our answers. The only concenn is whether we may wake up something other than the door's mechanisms?"
+ 
+######################### CHAPTER FOUR ###################################
+ 
+acot_digsite_events.5.name: "Ghosts of the Past - Chapter Four"
+acot_digsite_events.5.a.desc: "§RWhy are we still here, just to suffer?§!\n\nIIf it was not clear before, it is pretty clear now. There is literally nothing of value left to be discovered in this former ancient world. The only thing the team is able to discover is a black box that contains a single green apple that has been preserved for over 100,000 years.\n\nThis somehow gives the team some semblance of hope that perhaps there could be more of these black boxes, with something worth studying?"
+acot_digsite_events.5.a.1: "A metal box with an apple inside? How strange..."
+ 
+acot_digsite_events.5.b.desc: "§RThe Air Conditioner?§!\n\nAgainst all bets, the Fusion Reactor does actually manage to power up the Vault...for five seconds. After that the power output dropped so low that the only thing that stills operate normally is a single air conditioner. Just as when the team prepares to replace the ineffective reactor with a better one, the device breaks, and the entire interior begins to crumble.\n\nWhatever secrets that is hidden in this vault can thus no longer be studied, and there is nothing else we can do with the massive vessel other than salvage it for materials. Excavation Teams are standing by for salvaging operations."
+acot_digsite_events.5.b.1: "It's better than nothing."
+ 
+acot_digsite_events.5.c.desc: "§YGood Effort Yet Not Suffice§!\n\nThe power source we provided was strong enough to power most of the vault's systems, lights and computers are coming online. The team is pleased to know that they will be able to at least access most areas with automated doors instead of prying them open with meta-crowbars again and again. It appears this ancient science vessel was a host to vast arrays of prototype spaceships and that it contained the records of various ship designs. The vessel appeared to be an object of great value, and many ancient empires waged war to claim ownership of it.\n\nUnfortunately, the power source was not powerful enough to access every section. And the terminal indicates the system will go into lockdown if unscheduled visitors enter the restricted areas for far too long, which will prevent us from accessing other sections of the vault.\n\nThe Zero Point Reactor allows us to access one of the three main chambers, we must pick carefully."
+acot_digsite_events.5.c.1: "Access P-ESC Chamber"
+acot_digsite_events.5.c.1.explain: "The team has been ordered to access P-ESC Chamber, unfortunately this means that the other two chambers will no longer be availiable."
+acot_digsite_events.5.c.2: "Access P-BCS Chamber"
+acot_digsite_events.5.c.2.explain: "The team has selected to access P-BCS Chamber, unfortunately this means that the other two chambers will no longer be available."
+acot_digsite_events.5.c.3: "Access P-HPR Chamber"
+acot_digsite_events.5.c.3.explain: "The team has selected to access  P-HPR Chamber, unfortunately this means that the other two chambers will no longer be available."
+ 
+acot_digsite_events.5.d.desc: "§YTwo At the Cost of One§!\n\nThe power source we provided was strong enough to power most of the vault's systems, lights and computers are coming online. The team is pleased to know that they will be able to at least access most areas with automated doors instead of prying them open with meta-crowbars again and again. It appears this ancient science vessel was a host to vast arrays of prototype spaceships and that it contained the records of various ship designs. The vessel appeared to be an object of great value, and many ancient empires waged war to claim ownership of it. Unfortunately, the power source was not powerful enough to access every section. And the terminal indicates the system will go into lockdown if unscheduled visitors enter the restricted areas for far too long, which will prevent us from accessing other sections of the vault. On the bright side, no security systems or other unintended mechanics wake up, so the team is safe and sound to continue their work.\n\nThe Enhanced ZP Reactor allows us to access two of the three main chambers, we must pick carefully."
+acot_digsite_events.5.d.1: "Access P-ESC/BCS Chamber"
+acot_digsite_events.5.d.1.explain: "The team has been ordered to access P-ESC and P-BCS Chamber, unfortunately this means that the P-HPR will be lost to us."
+acot_digsite_events.5.d.2: "Access P-BCS/HPR Chamber"
+acot_digsite_events.5.d.2.explain: "The team has been ordered to access P-BCS and P-HPR Chamber, unfortunately this means that the P-ESC will be lost to us.."
+acot_digsite_events.5.d.3: "Access P-ESC/HPR Chamber"
+acot_digsite_events.5.d.3.explain: "The team has been ordered to access P-ESC and P-HPR Chamber, unfortunately this means that the P-BCS will be lost to us."
+ 
+acot_digsite_events.5.e.desc: "§YThe Brightest Burn§!\n\nSystems are coming online after we successfully installed the Delta Reactor and the team is happy to report that the entirety of the station is coming back to life. It appears this ancient science vessel was a host to vast arrays of prototype spaceships and that it contained the records of various ship designs. The vessel appeared to be an object of great value, and many ancient empires waged war to claim ownership of it.\n\nThanks to our efforts, all three chambers are fully accessible to the research team and they are eager to see what can be discovered in this forgotton relic."
+acot_digsite_events.5.e.1: "What secrets will we find?"
+ 
+acot_digsite_events.500.name: "Vault Security System"
+acot_digsite_events.500.desc: "Red Alert! It seems we may have restored the power all too well, and the Vault's security systems come back to life as well! Multiple automated ships have emerged, as well as a massive forces on the ground. We are under attack!"
+acot_digsite_events.500.a: "To arms!"
+
+######################### CHAPTER FIVE ###################################
+ 
+acot_digsite_events.6.name: "Ghosts of the Past - Chapter Five"
+ 
+acot_digsite_events.6.a.name: "Food for Thought"
+acot_digsite_events.6.a.desc: "§RFood For Thought?§!\n\nUnfortunately, there are no more boxes left. It is time to give up, there is nothing more to be found, the team requests us to give up the project. We can't deny the truth forever. We screwed up...bad. There are better things for the science team to do than to dig through this broken, shattered world."
+acot_digsite_events.6.a.1: "Anyone got any more green apples?"
+ 
+acot_digsite_events.6.b.desc: "§RSalvage Operations§!\n\nThe salvaging operations is nearly completed. Though it pains us greatly to have to scrap this antique piece of ancient technology, leaving it around serves no benefits. The exteriors have been converted into usable alloys, and the rest will follow suit soon."
+acot_digsite_events.6.b.1: "At least there is something to be gained."
+ 
+acot_digsite_events.6.c.desc: "§YThe Proving Grounds§!\n\nThe Team has finished their explorations on the selected chamber. It would appear that this must have been some kind of ancient Proving Grounds for various spaceships. Various terminals and datapads are scattered all over the place, each showing images of multiple ships, some of which bear striking resembles to the ones of our era.\n\nEverything here seems to be written in extremely ancient languages and the team cannot make much of it without some kind of deciphering unit. It is possible to simply decrypt the codes ourselves, but we don't have much time.\n\nThere are only two possible sections connected to the chambers. We are uncertain what other surprises hold and spending too long here cannot be good, it is likely we can only access one section. We must choose."
+acot_digsite_events.6.c.desc.translated: "§Yhe Proving Grounds§!\n\nThe Team has finished their explorations on the selected chamber. It would appear that this must have been some kind of ancient Proving Grounds for various spaceships. Various terminals and datapads are scattered all over the place, each showing images of multiple ships, some of which bear striking resemblances to the ones of our era.\n\nEverything here seems to be written in extremely ancient languages. Fortunately for us, our interactions with SOPHIA has granted us some insights needed to translate them.\n\nThere are only two possible sections connected to the chambers. We are uncertain what other surprises hold and spending too long here cannot be good, it is likely we can only access one section.  We must choose."
+ 
+acot_digsite_events.6.d.desc: "§YThe Proving Grounds§!\n\nThe Team has finished their explorations on all chambers. It would appear that these must have been some kind of ancient Proving Grounds for various spaceships. Various terminals and data pads are scattered all over each chambers, showing images of multiple ships, some of which bear striking resembles to the ones of our era.\n\nEverything here seems to be written in extremely ancient languages and the team cannot make much of it without some kind of deciphering unit. It is possible to simply decrypt the codes ourselves, but we don't have much time.\n\nThere are only two possible sections connected to the chambers. We are uncertain what other surprises hold and spending too long here cannot be good, it is likely we can only access one section. We must choose."
+acot_digsite_events.6.d.desc.translated: "The Team has finished their explorations on all chambers. It would appear that these must have been some kind of ancient Proving Grounds for various spaceships. Various terminals and datapads are scattered all over each chamber, showing images of multiple ships, some of which bear striking resemblances to the ones of our era\n\nEverything here seems to be written in extremely ancient languages. Fortunately for us, our interactions with SOPHIA has granted us some insights needed to translate them.\n\nThere are only two possible sections connected to the chambers. We are uncertain what other surprises hold and spending too long here cannot be good, it is likely we can only access one section.  We must choose."
+ 
+acot_digsite_events.6.e.desc: "§YThe Proving Grounds§!\n\nThe Team has finished their explorations on the selected chamber. It would appear that this must have been some kind of ancient Proving Grounds for various spaceships. Various terminals and datapads are scattered all over the place, each showing images of multiple ships, some of which bear striking resembles to the ones of our era.\n\nFrom our knowledge of other precursor designs, what we have unlocked thus far will be vital to what we can expect going forward.\n\nThere are only two sections left to go through, but everything here is familiar enough that we are confident in our ability to progress through both of them in a timely manner."
+
+acot_digsite_events.6.f.desc: "§YThe Proving Grounds§!\n\nThe Team has finished their explorations on all chambers. It would appear that these must have been some kind of ancient Proving Grounds for various spaceships. Various terminals and data pads are scattered all over each chambers, showing images of multiple ships, some of which bear striking resembles to the ones of our era.\n\nEverything here seems to be written in extremely ancient languages and the team cannot make much of it without some kind of deciphering unit. It is possible to simply decrypt the codes ourselves, but we don't have much time. There are only two possible sections connected to the chambers. We must choose."
+
+acot_digsite_events.6.c.1: "The bigger section seems more promising."
+acot_digsite_events.6.c.1.explain: "The bigger section seems to be large enough to serve as a hangar or anchorage, and there are massive energy readings inside. The data log states the following alien language\n\n"H'ong Ko'daeng - Sa'rab ru'ab ru'am y'oarn r'ob rak'a t'ouk v'hai t'am so'kram""
+acot_digsite_events.6.c.2: "The smaller one must hold some secrets."
+acot_digsite_events.6.c.2.explain: "The smaller section seems to look more like a storage section. There are very faint energy readings, and the overall section seems unimpressive. The data log states the following alien language\n\n"H'ong Sa'nouk - Sa'rab k'eb k'ong sa'nouk v'ai m'eme.""
+acot_digsite_events.6.d.1: "Access the Prototype Anchorage Section."
+acot_digsite_events.6.d.1.explain: "§Y"H'ong Ko'daeng - Sa'rab ru'ab ru'am y'oarn r'ob rak'a t'ouk v'hai t'am so'kram"§!\n\nThese alien language can be roughly translated as "Prototype Warship Anchorage For Use During War Emegency". So it is easy to surmise that the passage will lead up directly into a large anchorage, where all kind of prototype precursor ships should be stored."
+acot_digsite_events.6.d.2: "Access the Precursor Blueprint Archive Section."
+acot_digsite_events.6.d.2.explain: "§Y"H'ong Sa'nouk - Sa'rab k'eb k'ong sa'nouk v'ai m'eme."§!\n\nThese strange words roughly translate as "Archives Section - For Storing of Various Important Data and Schematics.". It is likely that we can expect to find some useful schematics and data for ancient precursor weapons here."
+acot_digsite_events.6.e.1: "Let's see what we can find."
+acot_digsite_events.6.e.1.explain: "Our understanding of ancient precursor's megastructure designs allow us to recognize the patterns and systems of this place, and we can explore both sections at the same time with relative ease. One section will lead to some kind of anchorage, and the other leads to archives." 
+
+######################### CHAPTER FINAL ###################################
+ 
+acot_digsite_events.7.name: "Ghosts of the Past - The Conclusion"
+ 
+acot_digsite_events.7.a.desc: "§YAn Unexpected Guest§!\n\nJust as soon as the team is ready to pack up and leave, a random unknown pirate ship approaches, there is no one on-board. The only thing of note in the ship is a small datapad with the following words inscribed.\n\n§Y"364,754...364,754 times I have lived, and died. But it will happen again, I know it just will. This blasted, accursed relic! It kept repeating the damn event! Me, those stupid fleets, and the damn relic. WHy is it that everyone died immediately except me? ME? Every time I die, it's that exact same image, the horrifying white-black furball horror that laughs, and chuckles at my suffering. WHEN WILL THIS END?"§!\n\nWhoever this person is, he seems to be related to the disaster here, but what could he mean by this "White-Black Furball Horror"? Is there some sort of malignant entity that constantly makes fun of people's lives? Or is it just rambling of a mad man who fell victim to ancient horrors?"
+acot_digsite_events.7.a.1: "Something are better left unanswered."
+ 
+acot_digsite_events.7.b.desc: "§YSalvage Operations§!\n\nThe final process  of the salvage operation has been completed. Everything of value has been stripped and repurposed for future use. On the bright side, perhaps this is for the better. It is not like all the old stuff is always going to contain cool technologies right? RIGHT?"
+acot_digsite_events.7.b.1: "Yeah...right."
+ 
+acot_digsite_events.7.c.desc: "§EA'merigo - Ancient Armada§!\n\nThe team is able to finally access the larger section of the vault. And what was inside was quite telling. Large amounts of ships bearing the designs similar to that of the Fallen Empires are found. Though they bear similar components and technologies, these ships seem to be much more...powerful. It is as if they have been augmented beyond their initial specifications.\n\nAs predicted, the vault's energy readings begin to become unstable, and before we can learn anymore about its history, or what the other smaller section holds, the vault fluctuates and disappears.\n\nThough we are ultimately unable to ascertain the purpose and true history behind this massive vault, these ships will serve us well in battle."
+ 
+acot_digsite_events.7.c.1: "Let's put these ships to use then."
+ 
+acot_digsite_events.7.d.desc: "§EA'merigo - Ancient Designs§!\n\nThe team is able to finally access the smaller section of the vault. The best way to describe what's inside is that it's a treasure trove of knowledge and histories; ancient engineering, technologies, recorded in great details, in thousands. There are designs of ships that of which we have never seen, and prototypes of various technologies that bear striking similarities to that of the Fallen Empire's own ships.\n\nHowever, the vault's energy readings begin to become unstable, and there is not much time. The team downloads what they can of the schematics and evacuate immediate, and the fluctuating vault disappears not a moment too soon after. \n\nThough we may never know the true story of this ancient vault or what the larger section holds, these schematics will no doubt be useful to our empire."
+ 
+acot_digsite_events.7.d.1: "The preserved data is all that matters."
+ 
+acot_digsite_events.7.e.desc: "§EA'merigo§ - The Revelation!\n\nOur archeologist teams are able to finally access and explore the two final sections. The Anchorage contains \n\nLarge amounts of ships bearing the designs similar to that of the Fallen Empires are found. Though they bear similar components and technologies, these ships seem to be much more...powerful. It is as if they have been augmented beyond their initial specifications.\n\nThe Archives contain a treasure trove of knowledge and histories; ancient engineering, technologies, recorded in great details, in thousands. There are designs of ships that of which we have never seen, and prototypes of various technologies that bear striking similarities to that of the Fallen Empire's own ships.\n\nWe gather what we can and leave the station before it flickers and vanishes. Whatever is causing it to appear to us, seems to no longer be able to hold its physical existence."
+ 
+acot_digsite_events.7.e.1: "Good bye, A'merigo."
+ 
+acot_digsite_events.7.f.desc: "§EA'merigo§ - The Revelation\n\nOur archeologist teams are able to finally access and explore the two final sections. The Anchorage contains \n\nLarge amounts of ships bearing the designs similar to that of the Fallen Empires are found. Though they bear similar components and technologies, these ships seem to be much more...powerful. It is as if they have been augmented beyond their initial specifications.\n\nThe Archives contain a treasure trove of knowledge and histories; ancient engineering, technologies, recorded in great details, in thousands. There are designs of ships that of which we have never seen, and prototypes of various technologies that bear striking similarities to that of the Fallen Empire's own ships.\n\nOur decisions so far has lead us towards likely the best outcome, and we make out with various useful loots and data before the station begins to shake and flickers. Whatever is causing it to appear to us, seems to no longer be able to hold its physical existence."
+ 
+acot_digsite_events.8.name: "Return of the Ghost"
+acot_digsite_events.8.desc: "We're detecting an energy signature from [root.GetName]. The signature matches that of the same station that vanished awhile ago, no doubt that of the A'merigo. This presents a unique opportunity!\n\nNow that we no longer need to spend time exploring it, we can focus our resources on trying to anchor the station to our dimension, so that it will not disappear again, or at the very least, stay long enough for us to benefit from it.\n\nDimensional Experts believe that this is our last chance, as the A'merigo will likely not emerge again in this manner if we miss it."
+acot_digsite_events.8.a: "We must have it, spare no expenses!"
+acot_digsite_events.8.b: "We best let it go, it's a ghost of the past."
+ 
+acot_digsite_events.9.name: "The A'merigo Returns!"
+acot_digsite_events.9.desc: "It is done, the massive science vessel emerges, its existence fixated and anchored to our own physical dimension. This should keep it in place for a long, long time."
+acot_digsite_events.9.a: "Excellent Work!"
+ 
+r_amerigo: "A'merigo Temporal Replication Device"
+r_amerigo_desc: "A strange experimental device capable of piercing into space-time continuum to read and analyze ships from the ancient past, and replicates them to the present time. Although this is not time travel, it is still pretty impressive."
+acot_amerigo_explain: "Activates the device in an effort to replicate a design from the past. We do not know what kind of ships or objects will come out, only that they will always be under our control.\n\n§YThis relic does not share the same cooldown as other relics and can be used independently.§!"
+acot_amerigo_requires_relic_no_cooldown: "$TRIGGER_FAIL$§RCannot activate this relic while §YA'merigo Activation Cooldown§! is active.§!"
+acot_amerigo_requires_mega: "$TRIGGER_FAIL$§RCannot activate this relic because we do not own the A'merigo anymore.§!"
+
+acot_relic_amerigo_cooldown:0 "\nA'merigo Activation Cooldown: £time£ §Y3600§!" 
+
+acot_digsite_events.1000.name: "Ancient Fallen Empire Fleet"
+acot_digsite_events.1000.desc: "The A'merigo replicates a fleet of Ancient Fallen Empire's vessels. They appears to be much more advanced and powerful than the current literations fielded by the Fallen Empires."
+acot_digsite_events.1000.a: "Look how far they have fallen."
+acot_digsite_events.1000.b: "Scrap them for resources."
+acot_digsite_events.1000.c: "Reconfigure the Process."
+acot_digsite_events.1000.c.explain: "We will not manifest the ships and simply reconfigure the replicator. This will change the §YA'merigo Activation Cooldown§! to §Y5§! years."
+ 
+acot_digsite_events.1001.name: "Ancient Precursor Fleet"
+acot_digsite_events.1001.desc: "The A'merigo replicates a fleet of Ancient Precursor's vessels. They are similar to Fallen variants, but seems much more specialized and customized."
+acot_digsite_events.1001.a: "Superb."
+ 
+acot_digsite_events.1002.name: "Ancient Outsider Fleet"
+acot_digsite_events.1002.desc: "The A'merigo replicates a fleet of Ancient Outsider ships. These ships are similar to modern designs but are way larger and more advanced."
+acot_digsite_events.1002.a: "Just how primitive are we compared to the past?"
+ 
+acot_digsite_events.1003.name: "Show Me the Money"
+acot_digsite_events.1003.desc: "The A'merigo manages to replicate supply ships carring various useful loots for our cause."
+acot_digsite_events.1003.a: "Ours now!"
+ 
+acot_digsite_events.1004.name: "The Big Cheese"
+acot_digsite_events.1004.desc.a: "Yellow Alert: The A'merigo appears to have caught something big...very big. The system is struggling to replicate the object. The crew is requesting clearance and resources to increase power level."
+acot_digsite_events.1004.desc.b: "Yellow Alert: The A'merigo appears to have caught something massive. We recognizes this signature, it is the same ship the A'merigo tried to replicate before!\n\nIf we wish to try to claim it this time, we'll have to risk ourselves again."
+acot_digsite_events.1004.desc.c: "Yellow Alert: The A'merigo appears to have caught a familiar signature. Looks like we're going to have another chance to replicate the Kylo Ren. But dare we risk it?"
+acot_digsite_events.1004.a: "Permission Granted"
+acot_digsite_events.1004.b: "Negative, abort mission."
+ 
+acot_digsite_events.10041.name: "Unidentified Massive Object"
+acot_digsite_events.10041.desc.a: "§RRed Alert:§! A'mergo Power Reaching Capacity. The object is too big. We must abort the mission!"
+acot_digsite_events.10041.desc.b: "§RRed Alert:§! A'mergo Power Reaching Capacity. Perhaps it is best to not tempt fate? "
+acot_digsite_events.10041.a: "BELAY THAT ORDER! MORE POWER!"
+acot_digsite_events.10041.b: "ABORT! ABORT!"
+acot_digsite_events.10041.c: "We need another Kylo Ren! Increase power!"
+acot_digsite_events.10041.d: "Abort Sequence! No further risks."
+ 
+acot_digsite_events.10042.name: "§RSituation Critical!§!"
+acot_digsite_events.10042.desc: "§!RED ALERT:§! A'mergi Stability Critical! Multiple System Failures Detected!. Servers are crashing, half the facility is on fire and the crews aboard are screaming madly.\n\nThe Station is fading away out of existence! We are going to lose it if we do not stop!"
+acot_digsite_events.10042.a: "§RMORE POWER! TRUST IN THE A'MERIGO§!"
+acot_digsite_events.10042.b: "§REND THIS NOW! ALL HANDS ON DECK!§!"
+acot_digsite_events.10042.c: "Damn the consequences! More Power!"
+acot_digsite_events.10042.d: "Stop it! That is enough!"
+ 
+acot_digsite_events.10043.name: "A Gift"
+acot_digsite_events.10043.desc.a: "Impossible...Incredible. The A'merigo has successfully replicated the object, all systems are returning to normal. Fires are being put out and crews are finally calming down.\n\nThe object appears to be a massive space hulk, some kind of flagship...it has a very ancient design, with many key similarities to ships used by the Phanon Corps. But how such a beast of a ship is involved with the A'merigo? We should learn more."
+acot_digsite_events.10043.desc.b: "Great News! The A'merigo did it again!\n\nEverything is returning to order and we get ourselves yet another replica of the Kylo Ren!"
+acot_digsite_events.10043.a: "Let us commandeer it!"
+acot_digsite_events.10043.b: "We have no use for such thing. Scrap it."
+acot_digsite_events.10043.c: "Break down and analyze the ship."
+ 
+acot_digsite_events.10044.name: "§RCritical Mission Failure!§!"
+acot_digsite_events.10044.desc: "Emergency! Emergency! The Containment Field has been breached!\n\nThe A'merigo is no longer able to hold itself together to the physical space and has vanished, leaving only strange hostile fleet in its wake. We do not know when or where it will return again, or whether it will at all..."
+acot_digsite_events.10044.a: "It will come back, surely it will..."
+acot_digsite_events.10044.b: "If only we had been more careful..."
+
+acot_digsite_events.10045.name: "§RCritical Mission Failure!§!"
+acot_digsite_events.10045.desc: "Emergency! Emergency! The Containment Field has been breached!\n\nThe A'merigo is no longer able to hold itself together to the physical space and has vanished into the void, leaving the system in a total disaster!"
+acot_digsite_events.10045.a: "What have we done!?"
+acot_digsite_events.10045.b: "We must learn from this mistake..."
+
+acot_digsite_events.10047.name: "A Familair Ghost"
+acot_digsite_events.10047.desc: "Our sensors are picking up the A'merigo's faint signature again. It is located on [root.GetName] this time. We'll have another chance to acquire it."
+acot_digsite_events.10047.a: "We must reclaim it!"
+acot_digsite_events.10047.b: "We don't have the resources to do so."
+acot_digsite_events.10047.b.explain: "We will miss the chance to restore it and must wait again for its next return."
+acot_digsite_events.10047.c: "Enough! We're not touching that damn thing again!"
+
+acot_digsite_events.10048.name: "The A'merigo Returns!"
+acot_digsite_events.10048.desc: "We did it, the A'merigo has returned under our fold, its existence fixated and anchored to our own physical dimension once again. Let's try not to lose again, yes?"
+acot_digsite_events.10048.a: "Welcome home, A'merigo!"
+
+acot_kylo_ren_non_plantoid_flaw: "Full of Trees"
+acot_kylo_ren_non_plantoid_flaw_desc: "Too many trees, can't navigate shit."
+
+acot_digsite_events.1005.name: "Phanon Corps"
+acot_digsite_events.1005.desc.a: "Greetings, [root.GetName]. We understand that you have recently acquired a ship that once belonged to the Phanon Corps, the Kylo Ren. We express an interest in reacquiring this particular vessel, and you will be compensated for it."
+acot_digsite_events.1005.desc.b: "Greetings, [root.GetName]. We are intrigued to know that you have recovered yet another duplicate of our ship. As usual, We express an interest in reacquiring the ship and we'll reward you handsomely should you agree."
+acot_digsite_events.1005.a: "So it was indeed one of your ships after all?"
+acot_digsite_events.1005.a.response: "Precisely. The ship was purchased by one of our many customers in the past and took part in a battle that involved the A'merigo. Seeing as the ship's original owner is no more, we'd like to reclaim the asset itself for security reasons."
+acot_digsite_events.1005.b: "What is it's history?"
+acot_digsite_events.1005.b.response: "It was a special commission of a custom-made Star Dominator-class light cruiser by an empire that used to exist in the past. The designs were specific and have proven to be effective enough that it became a new standard for the later generations of Star Dominator, the Mark II variants. The original ship itself took part in the battle of the A'merigo. We understand that the captain had decided to ram the ship into the station, thus causing its doom. The name "Kylo Ren" seems to vaguely translate to "He Who Rages Against Fate" in the original buyer's language. Fitting name, considering its history."
+acot_digsite_events.1005.c: "Why do you need it back now?"
+acot_digsite_events.1005.c.response: "For security and research purpose. It is not the first time this ship has been "resurrected" by the mysterious A'merigo, the station in your possession, and we'd like to study its condition and status, as well to ensure that nothing we do not want ends in the wrong hands, which we are sure you can understand. But worry not, you will be well compensated."
+acot_digsite_events.1005.d: "What if we refuse?"
+acot_digsite_events.1005.d.response: "That would be unfortunate, but seeing as you're the one who reclaimed it, it is indeed within your rights to keep it. But be aware that though formidable the ship it may be, the Kylo Ren in your possession is running an outdated design, and its systems may not be fully compatible with your empire.\n\n§YThe former Kylo Ren's owner was a plantoid, the ship will suffers -25% fire rate, tracking and hull points if we are also not a plantoid.§!"
+acot_digsite_events.1005.e: "What do you offer in exchange?"
+acot_digsite_events.1005.e.a.response: "We are prepared to offer you a sizable sum of economic boons in alloys and energy as well as a §Yfree Phanon Ulramembership Subscription§!. Alternatively, if you are willing to pay extra expenses, we will perform basic procedures necessary to study and remove any anomalies of the ship, and upgrade it to fit the Corp's current standards. You'll find that the ship can be much more formidable with our deadly and up-to-date systems and components."
+acot_digsite_events.1005.e.b.response: "We are prepared to offer you a sizable sum of economic boons in alloys and energy as well as §Y5§! Phanon Coins. Alternatively, if you are willing to pay extra expenses, we will perform basic procedures necessary to study and remove any anomalies of the ship, and upgrade it to fit the Corp's current standards. You'll find that the ship can be much more formidable with our deadly and up-to-date systems and components."
+acot_digsite_events.1005.f: "We have a deal. Take the ship."
+acot_digsite_events.1005.f.response: "Excellent! We'll transfer resources to your empire immediately."
+acot_digsite_events.1005.g: "Upgrade the ship for us then."
+acot_digsite_events.1005.g.response: "Excellent! This will take only a moment."
+acot_digsite_events.1005.h: "We'd rather keep the ship as it is."
+acot_digsite_events.1005.h.response: "Very well. if that is your final decision, then we will respect it."
+
+acot_digsite_events.1006.name: "Polished and Ready"
+acot_digsite_events.1006.desc: "As promised, the Corps has upgraded and returned the Kylo Ren to us, now will shiny, up-to-date components and systems. We do not know what exactly did they change or remove from the one we dug out, but there seems to be no malicious systems we can find."
+acot_digsite_events.1006.a: "Very nice."
+acot_digsite_events.1006.b: "Hope that's worth the expense."
+acot_digsite_events.1006.c: "This is a trap, destroy the ship!"
+
+###############
+ACOT_MEME_PIRATE_CORVETTE: "Lost Ship"
+

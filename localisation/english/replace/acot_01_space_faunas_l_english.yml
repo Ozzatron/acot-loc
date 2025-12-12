@@ -1,0 +1,532 @@
+﻿
+l_english:
+
+ftl_components_bio: "Bio FTL"
+
+tech_acot_fauna_mutations_enig: "Advanced Tech-Integrated Mutation"
+tech_acot_fauna_mutations_enig_desc: "Now that we are more familiar with both technology and biology, we can finally upscale our mutations to fit the standards of our ship components, and bring them up to the level of our more advanced components."
+tech_acot_fauna_mutations_enig_effect: "Space Fauna Weapon Damages: §G+10%§!\n§YUnlocks§! : Advanced Fauna Mutations\n\n§LThese mutations have superior size scaling compared to vanilla variants, making them equal to default ship components.§!"
+
+tech_acot_fauna_built_in_shields: "Fauna's Integrated Shields"
+tech_acot_fauna_built_in_shields_desc: "Faunas cannot be expected to survive long in modern space warfare if they have no shields to protect themselves. Integrating self-powered shield generators into their internal organs will alleviate this problem to a degree."
+
+ACOT_BIO_PROPULSION_BASE: "Unaugmented Bio-Propulsions"
+ACOT_BIO_PROPULSION_BASE_DESC: "Saves cost by make use of the fauna's natural space propulsion mechanisms."
+
+ACOT_BIO_PROPULSION_ENIG_GLOBAL: "Basic Bio-Propulsions"
+ACOT_BIO_PROPULSION_ENIG_GLOBAL_DESC: "Uses the basic Impulse X Thruster modified to work with our advanced faunas."
+
+ACOT_BIO_COMPUTER_BASE_DEFAULT: "Instinctive Neurochips"
+ACOT_BIO_COMPUTER_BASE_DEFAULT_DESC: "Neurochips that only enable fleet movement controls, but gives the fauna freedom to engage on its own without instructions to save costs."
+
+##################################
+
+tech_acot_fauna_mutations_delta: "Fauna Sequence Evolution"
+tech_acot_fauna_mutations_delta_desc: "In our attempts to increase the numbers of possible mutations to our fauna, we have come to a realization that there is limit to the natural evolution of these faunas that make them unsuitable in advanced warfare. It is time we prepare for a series of evolutions that will unlock true potential of these lifeforms."
+
+tech_acot_fauna_mutations_alpha: "Experimental Fauna Genetic Splicing"
+tech_acot_fauna_mutations_alpha_desc: "It is time to go past the boundaries of nature once and for all. From the depths of the void, we will mold life into beings of wonder."
+
+tech_acot_fauna_mutations_phi: "Phanon Genetic Sequence Integration"
+tech_acot_fauna_mutations_phi_desc: "We have managed to decipher some useful genetic blueprints that the Corps use in their dutymen that can be applied to our space faunas to further increase their ability to accept even more mutations and further increase their durability."
+
+tech_acot_fauna_mutations_runic: "Phanon Master Bionic Code Analysis"
+tech_acot_fauna_mutations_runic_desc: "We manage to study and gain some understanding on how the Corps manage to integrate powerful genetics and bionic augmentations into their operatives which can be applied to our space faunas."
+
+tech_acot_fauna_mutations_sigma: "Sons of the Stellar Empire"
+tech_acot_fauna_mutations_sigma_desc: "The ancient powers of Stellarites seem to have awaken something deep inside our faunas, as if ancient spirits yet stir within them..."
+
+########################## WHALEEEE TIYANKI ##########################
+
+mod_shipsize_space_whale_1_hull_mult: "Tiyanki Hull Points"
+mod_shipsize_space_whale_2_hull_mult: "Tiyanki Hull Points"
+mod_shipsize_space_whale_3_hull_mult: "Tiyanki Hull Points"
+mod_shipsize_space_whale_4_hull_mult: "Tiyanki Hull Points"
+
+tech_acot_fauna_space_whale_upgrades: "Advanced Tiyanki Modification"
+tech_acot_fauna_space_whale_upgrades_desc: "We're reaching the limits of what we can do with these docile space whales. If we seek to turn these harmless little things into a real war beasts, some additional modifications will be necessary first..."
+tech_acot_fauna_space_whale_upgrades_effect: "Normal Tiyanki Hull Points: §G+20%§!"
+
+######
+
+tech_acot_fauna_space_whale_type_1: "Shadow Tiyanki Strains"
+tech_acot_fauna_space_whale_type_1_desc: "Tiyankis are already by default, a rather elusive creature in order to avoid their natural predators. If we modify and encourage this behavior, we may be able to create a new strain of Tiyanki that excels at stealth, evasion and mobility."
+
+acot_space_whale_type_1: "Shadow Tiyanki"
+acot_space_whale_type_1_cap: "Shadow Tiyanki"
+acot_space_whale_type_1_plural: "Shadow Tiyankis"
+acot_space_whale_type_1_section_key: "Shadow Tiyanki Body"
+acot_tiyanki_type_1_type: "Shadow Tiyanki"
+acot_tiyanki_type_1_desc: "Shadow Tiyankis have been engineered to be extremely agile and stealthy, capable of slipping through enemy with ease through their unnatural stealth."
+
+acot_space_whale_type_1_reanimated: "Reanimated Shadow Tiyanki"
+acot_space_whale_type_1_reanimated_plural: "Reanimated Shadow Tiyankis"
+acot_space_whale_type_1_reanimated_section_key: "Reanimated Shadow Tiyanki Body"
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_WEAPON: "Shadow Weave"
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_WEAPON_DESC: "Shadow Tiyanki's energy absortion glands have been modified to absorb less energy but deals greater physiscal damage on hulls and armors."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_LASER: "Abyssal Eye Beam"
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_LASER_DESC: "Shadow Tiyankis are given these extra eyes to help deal with armored foes over medium range."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_PD: "Warding Scales"
+ACOT_SPACE_WHALE_WEAPON_TYPE_ONE_PD_DESC: "Various parts of the Shadow Tiyanki's scales have been grafted with small energy weapons that act as point defenses."
+
+######
+
+tech_acot_fauna_space_whale_type_2: "Dire Tiyanki Strains"
+tech_acot_fauna_space_whale_type_2_desc: "It is possible to capitalize the Tiyanki's natural cravings for gas giant's energy into a real, ravanous hunger. This new strain will turn the once mostly docile and passive whales into deadly predators, whose aggressive vertical stance has been encouraged to be its primary posture, standing tall against our enemies."
+
+acot_space_whale_type_2: "Dire Tiyanki"
+acot_space_whale_type_2_cap: "Dire Tiyanki"
+acot_space_whale_type_2_plural: "Dire Tiyankis"
+acot_space_whale_type_2_section_key: "Dire Tiyanki Body"
+acot_tiyanki_type_2_type: "Dire Tiyanki"
+acot_tiyanki_type_2_desc: "Dire Tiyankis are modified and enhanced for combat, to aggressively and ruthlessly consume energy from their victims from afar."
+
+acot_space_whale_type_2_reanimated: "Reanimated Dire Tiyanki"
+acot_space_whale_type_2_reanimated_plural: "Reanimated Dire Tiyankis"
+acot_space_whale_type_2_reanimated_section_key: "Reanimated Dire Tiyanki Body"
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_XL: "Chaotic Discharge"
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_XL_DESC: "Dire Tiyanki's foul tempers can be exploited to channel powerful blast of energy at their enemies."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_WEAPON: "Intense Energy Siphon"
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_WEAPON_DESC: "Dire Tiyankis have learned to siphon energy from a much greater distance than their lesser, natural cousins."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_SPIKES: "Crimson Spikes"
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_SPIKES_DESC: "Dire Tiyanki's wild mutations cause them to develop these nasty spikes which they can hurl at their adversaries."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_ARMOR: "Diretide Scales"
+ACOT_SPACE_WHALE_WEAPON_TYPE_TWO_ARMOR_DESC: "In addition to the Dire Tiyanki's natural strength and carapace, these extra layers of living scales work in symbiotic relationships with the space whale to provide extra armor."
+
+######
+
+tech_acot_fauna_space_whale_type_leviathan: "Kaiser Tiyanki Strains"
+tech_acot_fauna_space_whale_type_leviathan_desc: "Normally, tiyankis rarely survive long enough to reach gargantuan size, as it would either gets preyed on or stagnate their growth due to lack of sustainable nutritions to support further development. But with science, it is possibly to altogether bypass these natural limitations and genetically accelerate the space whale's age and size to a degree they dwarfs most modern capital ships."
+
+acot_space_whale_type_leviathan: "Kaiser Tiyanki"
+acot_space_whale_type_leviathan_cap: "Kaiser Tiyanki"
+acot_space_whale_type_leviathan_plural: "Kaiser Tiyankis"
+acot_space_whale_type_leviathan_2: "Kaiser Tiyanki X"
+acot_space_whale_type_leviathan_2_cap: "Kaiser Tiyanki X"
+acot_space_whale_type_leviathan_2_plural: "Kaiser Tiyankis X"
+acot_space_whale_type_leviathan_section_key: "Kaiser Tiyanki"
+acot_space_whale_type_leviathan_2_section_key: "Kaiser Tiyanki X"
+acot_tiyanki_leviathan_type: "Kaiser Tiyanki"
+acot_tiyanki_leviathan_type_desc: "These deadly tiyanki specimen have had their growth accelerated to the degree they appear to be of similar size and age as that of matriarches."
+
+acot_space_whale_type_leviathan_reanimated: "Reanimated Kaiser Tiyanki"
+acot_space_whale_type_leviathan_reanimated_plural: "Reanimated Kaiser Tiyankis"
+acot_space_whale_type_leviathan_reanimated_section_key: "Reanimated Kaiser Tiyanki Body"
+acot_space_whale_type_leviathan_reanimated_2: "Reanimated Kaiser Tiyanki"
+acot_space_whale_type_leviathan_reanimated_2_plural: "Reanimated Kaiser Tiyankis"
+acot_space_whale_type_leviathan_reanimated_2_section_key: "Reanimated Kaiser Tiyanki Body"
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_MELEE: "Triumphant Grasp"
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_MELEE_DESC: "Enemy ships should be aware that the Kaiser's deadly tentacles are strong enough to tear their hulls asunder."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_WEAPON: "Kaiser Energy Leeches"
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_WEAPON_DESC: "Kaiser's Energy Absortion power drains energy at alarming rates, capable of even causing massive failures to unprotected ship systems."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_L_WEAPON: "Kaiser Energy Spikes"
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_L_WEAPON_DESC: "Kaiser's Energy Absortion power drains energy at alarming rates, capable of even causing massive failures to unprotected ship systems."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_T_WEAPON: "Royal Scorch"
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_T_WEAPON_DESC: "The Kaiser's head can project a deadly beam of enigmatic energies."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_PLASMA_WEAPON: "Bio-Plasma Pulses"
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_PLASMA_WEAPON_DESC: "To aid in corroding enemy's armor, these glands around Kaiser's body produces rapid firing bio-plasma pulses."
+
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_ARMOR: "Energized Scales"
+ACOT_SPACE_WHALE_WEAPON_TYPE_LEVIATHAN_ARMOR_DESC: "Kaiser Tiyanki's scales have been augmented to provide not both superior physical protection, but also energy shields to stop enemy attacks."
+
+
+########################## BIOGENESIS
+
+## MANDIBLE
+
+ACOT_MANDIBLE_ENIG: "Crystalborn Mandibles"
+ACOT_MANDIBLE_ENIG_DESC: "Crystalborn Mandibles are forged from full clusters of the most durable rare crystals, making them even deadlier than usual."
+tech_acot_bio_mandible_enig: "Crystalborn Mandibles"
+tech_acot_bio_mandible_enig_desc: "The first experiment with the crystalline mandibles was a major success, but now we can even make a sharper and deadlier version with our superior knowledge of bioalchemy and augmentations. The whole blade shall be forged from the strongest of the rare crystal clusters in our stocks."
+
+ACOT_MANDIBLE_DM: "Primal Mandibles"
+ACOT_MANDIBLE_DM_DESC: "Primal Mandibles don't simply rely on brute physical force, but also strange dimensional powers to rip and tear their enemies."
+tech_acot_bio_mandible_dm: "Primal Mandibles"
+tech_acot_bio_mandible_dm_desc: "It is time we turn away from the mundane concepts of crude, physical force. The newly conceived Primal Mandibles generate a potent dimensional rifts that will break and shatter enemy ships as the mauler tears them apart."
+
+ACOT_MANDIBLE_AE: "Alpha Primal Mandibles"
+ACOT_MANDIBLE_AE_DESC: "Primal Mandibles don't simply rely on brute physical force, but also strange dimensional powers to rip and tear their enemies."
+tech_acot_bio_mandible_ae: "Alpha Primal Mandibles"
+tech_acot_bio_mandible_ae_desc: "Rip and Tear!"
+
+## HEALER
+
+ACOT_HEALING_SPORE_ENIG: "Super-G Spore Launcher"
+ACOT_HEALING_SPORE_ENIG_DESC: "These pods are filled with highly intelligent microorganisms capable of enveloping damaged ships with regenerative substances, while also hardening the ship's armor."
+acot_bio_healing_enig: "$ACOT_HEALING_SPORE_ENIG$"
+acot_bio_healing_enig_tt: "Repairs §Y106.00§! $HITPOINTS$ or $ARMOR$"
+tech_acot_bio_healing_spore_enig: "Super-G Spore Launcher"
+tech_acot_bio_healing_spore_enig_desc: "Excessive uses of Exotic Gases may have been dangerous for the microorganisms inside these spores in the past, but with advanced adaptive genes and enhanced intellects, these organisms are now able to handle the pressure, and in turn is made more effective than ever."
+
+ACOT_HEALING_SPORE_DM: "Primal Spore Launcher"
+ACOT_HEALING_SPORE_DM__DESC: "Even simple microorganisms can benefit from some primal genetics and mutations. They are now able to comprehend even more complex methods of restoration and engineering mechanisms."
+acot_bio_healing_dm: "$ACOT_HEALING_SPORE_DM$"
+acot_bio_healing_dm_tt: "Repairs §Y120.00§! $HITPOINTS$ or $ARMOR$"
+tech_acot_bio_healing_spore_dm: "Primal Spore Launcher"
+tech_acot_bio_healing_spore_dm_desc: "Even simple microorganisms can benefit from some primal genetics and mutations. They are now able to comprehend even more complex methods of restoration and engineering mechanisms."
+
+ACOT_HEALING_SPORE_AE: "Alpha Primal Spore Launcher"
+ACOT_HEALING_SPORE_AE_DESC: "Even simple microorganisms can benefit from some primal genetics and mutations. They are now able to comprehend even more complex methods of restoration and engineering mechanisms."
+acot_bio_healing_ae: "$ACOT_HEALING_SPORE_AE$"
+acot_bio_healing_ae_tt: "Repairs §Y155.00§! $HITPOINTS$ or $ARMOR$"
+tech_acot_bio_healing_spore_ae: "Alpha Primal Spore Launcher"
+tech_acot_bio_healing_spore_ae_desc: "Even simple microorganisms can benefit from some primal genetics and mutations. They are now able to comprehend even more complex methods of restoration and engineering mechanisms."
+
+## CONFUSER
+
+ACOT_CONFUSER_SPORE_ENIG: "Volatile Disruption Swarms"
+ACOT_CONFUSER_SPORE_ENIG_DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+tech_acot_bio_confuser_spore_enig: "Volatile Disruption Swarms"
+tech_acot_bio_confuser_spore_enig_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+
+ACOT_CONFUSER_SPORE_DM: "Primal Disruption Swarms"
+ACOT_CONFUSER_SPORE_DM__DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+tech_acot_bio_confuser_spore_dm: "Primal Primal Disruption Swarms"
+tech_acot_bio_confuser_spore_dm_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+
+ACOT_CONFUSER_SPORE_AE: "Alpha Primal Primal Disruption Swarms"
+ACOT_CONFUSER_SPORE_AE_DESC: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+tech_acot_bio_confuser_spore_ae: "Alpha Primal Primal Disruption Swarms"
+tech_acot_bio_confuser_spore_ae_desc: "These swarms of microorganisms are designed to disrupt both biological and mechanical systems, intefering with their controls and systems."
+
+## TRACKER
+
+ACOT_TRACKER_SPORE_ENIG: "Parasitic Relays"
+ACOT_TRACKER_SPORE_ENIG_DESC: "These microbes of parasitic organisms will latch onto enemy vessels and relay their locations to our ships, making it easier for them to be hunted and preyed upon."
+tech_acot_bio_tracker_spore_enig: "Volatile Parasitic Relays"
+tech_acot_bio_tracker_spore_enig_desc: "These microbes of parasitic organisms will latch onto enemy vessels and relay their locations to our ships, making it easier for them to be hunted and preyed upon."
+
+ACOT_TRACKER_SPORE_DM: "Primal Parasitic Relays"
+ACOT_TRACKER_SPORE_DM__DESC: "These microbes of parasitic organisms will latch onto enemy vessels and relay their locations to our ships, making it easier for them to be hunted and preyed upon."
+tech_acot_bio_tracker_spore_dm: "Primal Parasitic Relays"
+tech_acot_bio_tracker_sporer_dm_desc: "These microbes of parasitic organisms will latch onto enemy vessels and relay their locations to our ships, making it easier for them to be hunted and preyed upon."
+
+ACOT_TRACKER_SPORE_AE: "Alpha Primal Parasitic Relays"
+ACOT_TRACKER_SPORE_AE_DESC: "These microbes of parasitic organisms will latch onto enemy vessels and relay their locations to our ships, making it easier for them to be hunted and preyed upon."
+tech_acot_bio_tracker_spore_ae: "Alpha Primal Parasitic Relays"
+tech_acot_bio_tracker_spore_ae_desc: "These microbes of parasitic organisms will latch onto enemy vessels and relay their locations to our ships, making it easier for them to be hunted and preyed upon."
+
+## EVASION
+
+ACOT_EVASION_SPORE_ENIG: "Speeding Wagons"
+ACOT_EVASION_SPORE_ENIG_DESC: "Speeding Wagons."
+tech_acot_bio_evasion_spore_enig: "Volatile Parasitic Relays"
+tech_acot_bio_evasion_spore_enig_desc: "Speeding Wagons."
+
+ACOT_EVASION_SPORE_DM: "Primal Speeding Wagons"
+ACOT_EVASION_SPORE_DM__DESC: "Primal Speeding Wagons."
+tech_acot_bio_evasion_spore_dm: "Primal Parasitic Relays"
+tech_acot_bio_evasion_sporer_dm_desc: "Primal Speeding Wagons."
+
+ACOT_EVASION_SPORE_AE: "Alpha Primal Speeding Wagons"
+ACOT_EVASION_SPORE_AE_DESC: "Alpha Primal Speeding Wagons."
+tech_acot_bio_evasion_spore_ae: "Alpha Primal Parasitic Relays"
+tech_acot_bio_evasion_spore_ae_desc: "Alpha Primal Speeding Wagons."
+
+## SUPPPRESS
+
+ACOT_SUPPPRESS_SPORE_ENIG: "Eye of Suppression"
+ACOT_SUPPPRESS_SPORE_ENIG_DESC: "Eye of Suppression."
+tech_acot_bio_suppress_spore_enig: "Eye of Suppression"
+tech_acot_bio_suppress_spore_enig_desc: "Eye of Suppression."
+
+ACOT_SUPPPRESS_SPORE_DM: "Primal Eye of Suppression"
+ACOT_SUPPPRESS_SPORE_DM__DESC: "Primal Eye of Suppression."
+tech_acot_bio_suppress_spore_dm: "Primal Eye of Suppression"
+tech_acot_bio_suppress_sporer_dm_desc: "Primal Eye of Suppression."
+
+ACOT_SUPPPRESS_SPORE_AE: "Alpha Primal Eye of Suppression"
+ACOT_SUPPPRESS_SPORE_AE_DESC: "Alpha Primal Eye of Suppression."
+tech_acot_bio_suppress_spore_ae: "Alpha Primal Eye of Suppression"
+tech_acot_bio_suppress_spore_ae_desc: "Alpha Primal Eye of Suppression."
+
+## ADRENALINE
+
+ACOT_ADRENALINE_SPORE_ENIG: "Adrenaline Injector"
+ACOT_ADRENALINE_SPORE_ENIG_DESC: "Adrenaline Injector."
+tech_acot_bio_adrenaline_spore_enig: "Adrenaline Injector"
+tech_acot_bio_adrenaline_spore_enig_desc: "Adrenaline Injector."
+
+ACOT_ADRENALINE_SPORE_DM: "Primal Adrenaline Injector"
+ACOT_ADRENALINE_SPORE_DM__DESC: "Primal Adrenaline Injector."
+tech_acot_bio_adrenaline_spore_dm: "Primal Adrenaline Injector"
+tech_acot_bio_adrenaline_sporer_dm_desc: "Primal Adrenaline Injector."
+
+ACOT_ADRENALINE_SPORE_AE: "Alpha Primal Adrenaline Injector"
+ACOT_ADRENALINE_SPORE_AE_DESC: "Alpha Primal Adrenaline Injector."
+tech_acot_bio_adrenaline_spore_ae: "Alpha Primal Adrenaline Injector"
+tech_acot_bio_adrenaline_spore_ae_desc: "Alpha Primal Adrenaline Injector."
+
+##
+
+tech_acot_bio_growth_component_3: "Enhanced Growth Glands"
+tech_acot_bio_growth_component_3_desc: "Now that we have more stable economy and power projection, we can start investing in more aggressive growth acceleration for our bio ships."
+TECH_UNLOCK_ACOT_BIO_GROWTH_COMPONENT_3_TITLE: "§HUnlocks Component:§! $tech_acot_bio_growth_component_3$"
+TECH_UNLOCK_ACOT_BIO_GROWTH_COMPONENT_3_DESC: "§H$tech_acot_bio_growth_component_3$§!\NNow that we have more stable economy and power projection, we can start investing in more aggressive growth acceleration for our bio ships."
+
+tech_acot_bio_weapons_enig: "Dynamic Bio-Component Refinements"
+tech_acot_bio_weapons_enig_desc: "After reviewing our weapon and component systems against the rest of the galaxy, we are made aware of some limitations imposed by our existing designs, one that we can remedy."
+tech_acot_bio_weapons_enig_effect: "§YUnlocks Function:§! Bio-ship can use more variety of weapons."
+
+tech_acot_bio_precursor_integration: "Precursor Bio-Weapon Adaptations"
+tech_acot_bio_precursor_integration_desc: "Generally, the blueprints that SOPHIA gave us were not designed to support some of the unique bio-weapons of our ships like the Mauler's mandibles. But we can work around it and come up with something that will function similarly enough."
+tech_acot_bio_precursor_integration_effect: "§YUnlocks Function:§! Bio-ship weapons for Precursor ships"
+
+tech_acot_bio_growth_component_dm: "Primal Awakening Glands"
+tech_acot_bio_growth_component_dm_desc: "Primals are best grown from dedicated hatcheries to maximize speed and minimize maintenance costs, but even existing elders can be made to transform into their primal stage if we provide them with a specialized awakening glands."
+TECH_UNLOCK_ACOT_BIO_GROWTH_COMPONENT_DM_TITLE: "§HUnlocks Component:§! $ACOT_MAULER_STAGE_1_GROWTH_DM$\n§HUnlocks Component:§! $ACOT_MAULER_STAGE_3_GROWTH_DM$"
+TECH_UNLOCK_ACOT_BIO_GROWTH_COMPONENT_DM_DESC: "§H$ACOT_MAULER_STAGE_1_GROWTH_DM$§!\nHeavily augmented glands used to quickly accelerate younger ships into maturity.\n§H$ACOT_MAULER_STAGE_3_GROWTH_DM$§!\nSpecialized glands used to transform Elder ships into Primal form."
+
+tech_acot_bio_ships_delta: "Enigmatic Biosynthesis"
+tech_acot_bio_ships_delta_desc: "Naturally, once a bio-ship reaches elder stage, they can no longer grow any further through conventional means of biomass allocations, or at least not realistically feasible. But our biologists and enigmatic experts have discovered that it is possible to rapidly accelerates the growth and development potential of these living weapons by using dark energy to replace various parts of their organic components."
+tech_acot_bio_ships_delta_short: "Unlocks Primal stage for all combat bio ships, provided that their elder prerequisites have been met."
+ 
+tech_acot_bio_ships_alpha: "Alpha Biosynthesis"
+tech_acot_bio_ships_alpha_desc: "Through our greater understanding of dark energy and implementations of Alpha techs, we will be able to increase the survivability of our combat bio-ships without increasing the costs to maintain them."
+
+tech_acot_bio_ships_phi: "Phanon Rudimentary Ship Adaptation"
+tech_acot_bio_ships_phi_desc: "Despite our many attempts to understand the complexities and nature of the Phanon's advanced war machines, we are only able to grasp rudimentary understanding of how their ships operate. Nevertheless, what we gain is highly valuable, as the knowledge should enable us to make significant changes to our military ship designs."
+tech_acot_bio_ships_phi_short: "Unlocks new ship sections with higher defenses. These new sections cost extra alloys."
+
+tech_acot_bio_ships_runic: "Runic Hard-Light Vessels"
+tech_acot_bio_ships_runic_desc: "Though we have unfortunately failed in our attempts to fully adapt the Phanon's ships into our base military designs, we manage to learn that the materials used to build the Corps's formidable ships are partially based off hard-light technology as well. With some modifications, we can use that knowledge to improve the durability of our military ships slightly without further increasing their costs."
+
+tech_acot_bio_ships_sigma: "Stellarforged Hard Light Vessels"
+tech_acot_bio_ships_sigma_desc: "The advent of Stellarite Energy allows us to drastically reduce the amount of power required to charge up and solidify the Hard-light materials, making the process of creating more durable and dense hulls much more efficient."
+ 
+
+ship_growth_stage_1: "Juvenile"
+ship_growth_stage_2: "Mature"
+ship_growth_stage_3: "Elder"
+ship_growth_stage_4: "§cPrimal§!"
+ship_growth_stage_5: "Ascendant"
+
+##########
+
+MAULER_STAGE_2_GROWTH_2: "Accelerated $ship_growth_stage_2$ Growth Gland"
+MAULER_STAGE_2_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+MAULER_STAGE_3_GROWTH_1: "$ship_growth_stage_3$ Growth Gland"
+MAULER_STAGE_3_GROWTH_1_DESC: "$MAULER_STAGE_1_GROWTH_1_DESC$"
+MAULER_STAGE_3_GROWTH_2: "Accelerated $ship_growth_stage_3$ Growth Gland"
+MAULER_STAGE_3_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+
+ACOT_MAULER_STAGE_1_GROWTH_3: "Enhanced $ship_growth_stage_1$ Growth Gland"
+ACOT_MAULER_STAGE_1_GROWTH_3_DESC: "Further infusion of more exotic gases along with even more feedings, these enhanced glands will speed up the growth of the ship even further."
+ACOT_MAULER_STAGE_2_GROWTH_3: "Enhanced $ship_growth_stage_2$ Growth Gland"
+ACOT_MAULER_STAGE_2_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_MAULER_STAGE_3_GROWTH_3: "Enhanced $ship_growth_stage_3$ Growth Gland"
+ACOT_MAULER_STAGE_3_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+
+ACOT_MAULER_STAGE_1_GROWTH_DM: "Enigmatic $ship_growth_stage_1$ Growth Gland"
+ACOT_MAULER_STAGE_1_GROWTH_DM_DESC: "The ancient powers of the past contain many secrets that can be used to aid in the development of our bio ships to greatly accelerate their growths."
+ACOT_MAULER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
+ACOT_MAULER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_MAULER_STAGE_3_GROWTH_DM: "Primal Awakening Glands"
+ACOT_MAULER_STAGE_3_GROWTH_DM_DESC: "The ancient primal powers can only be awoken by this enigmatic mutations."
+
+ACOT_MAULER_STAGE_4_swarm: "§cPrimal (Swarm)§!"
+ACOT_MAULER_STAGE_4_picket: "§cPrimal (Picket)§!"
+
+acot_mauler_stage_4: "Primal Mauler"
+acot_mauler_stage_4_cap: "Primal Mauler"
+acot_mauler_stage_4_plural: "Primal Maulers"
+
+acot_mauler_stage_5: "Ascendant Mauler"
+acot_mauler_stage_5_cap: "Ascendant Mauler"
+acot_mauler_stage_5_plural: "Ascendant Maulers"
+
+##########
+
+WEAVER_STAGE_2_GROWTH_2: "Accelerated $ship_growth_stage_2$ Growth Gland"
+WEAVER_STAGE_2_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+WEAVER_STAGE_3_GROWTH_1: "$ship_growth_stage_3$ Growth Gland"
+WEAVER_STAGE_3_GROWTH_1_DESC: "$MAULER_STAGE_1_GROWTH_1_DESC$"
+WEAVER_STAGE_3_GROWTH_2: "Accelerated $ship_growth_stage_3$ Growth Gland"
+WEAVER_STAGE_3_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+
+ACOT_WEAVER_STAGE_1_GROWTH_3: "Enhanced $ship_growth_stage_1$ Growth Gland"
+ACOT_WEAVER_STAGE_1_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_WEAVER_STAGE_2_GROWTH_3: "Enhanced $ship_growth_stage_2$ Growth Gland"
+ACOT_WEAVER_STAGE_2_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_WEAVER_STAGE_3_GROWTH_3: "Enhanced $ship_growth_stage_3$ Growth Gland"
+ACOT_WEAVER_STAGE_3_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+
+ACOT_WEAVER_STAGE_1_GROWTH_DM: "Enigmatic $ship_growth_stage_1$ Growth Gland"
+ACOT_WEAVER_STAGE_1_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_WEAVER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
+ACOT_WEAVER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_WEAVER_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
+ACOT_WEAVER_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+
+ACOT_WEAVER_STAGE_4_buffer: "§cPrimal (Support)§!"
+ACOT_WEAVER_STAGE_4_debuffer: "§cPrimal (Suppressor)§!"
+
+acot_weaver_stage_4: "Primal Weaver"
+acot_weaver_stage_4_cap: "Primal Weaver"
+acot_weaver_stage_4_plural: "Primal Weavers"
+
+acot_weaver_stage_5: "Ascendant Weaver"
+acot_weaver_stage_5_cap: "Ascendant Weaver"
+acot_weaver_stage_5_plural: "Ascendant Weavers"
+
+##########
+
+HARBINGER_STAGE_2_GROWTH_2: "Accelerated $ship_growth_stage_2$ Growth Gland"
+HARBINGER_STAGE_2_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+HARBINGER_STAGE_3_GROWTH_1: "$ship_growth_stage_3$ Growth Gland"
+HARBINGER_STAGE_3_GROWTH_1_DESC: "$MAULER_STAGE_1_GROWTH_1_DESC$"
+HARBINGER_STAGE_3_GROWTH_2: "Accelerated $ship_growth_stage_3$ Growth Gland"
+HARBINGER_STAGE_3_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+
+ACOT_HARBINGER_STAGE_1_GROWTH_3: "Enhanced $ship_growth_stage_1$ Growth Gland"
+ACOT_HARBINGER_STAGE_1_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_HARBINGER_STAGE_2_GROWTH_3: "Enhanced $ship_growth_stage_2$ Growth Gland"
+ACOT_HARBINGER_STAGE_2_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_HARBINGER_STAGE_3_GROWTH_3: "Enhanced $ship_growth_stage_3$ Growth Gland"
+ACOT_HARBINGER_STAGE_3_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+
+ACOT_HARBINGER_STAGE_1_GROWTH_DM: "Enigmatic $ship_growth_stage_1$ Growth Gland"
+ACOT_HARBINGER_STAGE_1_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_HARBINGER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
+ACOT_HARBINGER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_HARBINGER_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
+ACOT_HARBINGER_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+
+ACOT_HARBINGER_STAGE_4_picket: "§cPrimal (Picket)§!"
+ACOT_HARBINGER_STAGE_4_artillery: "§cPrimal (Artillery)§!"
+
+acot_harbinger_stage_4: "Primal Harbinger"
+acot_harbinger_stage_4_cap: "Primal Harbinger"
+acot_harbinger_stage_4_plural: "Primal Harbingers"
+
+acot_harbinger_stage_5: "Ascendant Harbinger"
+acot_harbinger_stage_5_cap: "Ascendant Harbinger"
+acot_harbinger_stage_5_plural: "Ascendant Harbingers"
+
+##########
+
+STINGER_STAGE_2_GROWTH_2: "Accelerated $ship_growth_stage_2$ Growth Gland"
+STINGER_STAGE_2_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+STINGER_STAGE_3_GROWTH_1: "$ship_growth_stage_3$ Growth Gland"
+STINGER_STAGE_3_GROWTH_1_DESC: "$MAULER_STAGE_1_GROWTH_1_DESC$"
+STINGER_STAGE_3_GROWTH_2: "Accelerated $ship_growth_stage_3$ Growth Gland"
+STINGER_STAGE_3_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+
+ACOT_STINGER_STAGE_1_GROWTH_3: "Enhanced $ship_growth_stage_1$ Growth Gland"
+ACOT_STINGER_STAGE_1_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_STINGER_STAGE_2_GROWTH_3: "Enhanced $ship_growth_stage_2$ Growth Gland"
+ACOT_STINGER_STAGE_2_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_STINGER_STAGE_3_GROWTH_3: "Enhanced $ship_growth_stage_3$ Growth Gland"
+ACOT_STINGER_STAGE_3_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+
+ACOT_STINGER_STAGE_1_GROWTH_DM: "Enigmatic $ship_growth_stage_1$ Growth Gland"
+ACOT_STINGER_STAGE_1_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_STINGER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
+ACOT_STINGER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_STINGER_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
+ACOT_STINGER_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+
+ACOT_STINGER_STAGE_4_line: "§cPrimal (Line)§!"
+ACOT_STINGER_STAGE_4_artillery: "§cPrimal (Artillery)§!"
+
+acot_stinger_stage_4: "Primal Stinger"
+acot_stinger_stage_4_cap: "Primal Stinger"
+acot_stinger_stage_4_plural: "Primal Stingers"
+
+acot_stinger_stage_5: "Ascendant Stinger"
+acot_stinger_stage_5_cap: "Ascendant Stinger"
+acot_stinger_stage_5_plural: "Ascendant Stingers"
+
+##########
+
+tech_acot_bio_titan_growth_1: "Improved Conqueror Development"
+tech_acot_bio_titan_growth_1_desc: "Refined facilities accelerate growth cycles and improve bio-engineered precision, resulting in bio-titans with superior durability and firepower. Enhanced with these upgrades, the Conquerors will become a much more capable flagship for our bio fleets.."
+TECH_UNLOCK_acot_bio_titan_stage_2_CONSTRUCTION_TITLE: "§H$UNLOCKS_SHIP_TYPE$:§! $acot_bio_titan_stage_2$"
+TECH_UNLOCK_acot_bio_titan_stage_2_CONSTRUCTION_DESC: "§H$acot_bio_titan_stage_2$§!\nEnhanced for superior firepower and durability."
+
+tech_acot_bio_titan_growth_2: "Advanced Conqueror Development"
+tech_acot_bio_titan_growth_2_desc: "The apex of bioship growth technology, these advanced facilities produce Conquerors of unmatched powert and wrath. Optimized genetic templates and cutting-edge incubation techniques ensure these bio-titans bring destruction and mayhem to our enemies."
+TECH_UNLOCK_acot_bio_titan_stage_3_CONSTRUCTION_TITLE: "§H$UNLOCKS_SHIP_TYPE$:§! $acot_bio_titan_stage_3$"
+TECH_UNLOCK_acot_bio_titan_stage_3_CONSTRUCTION_DESC:  "§H$acot_bio_titan_stage_3$§!\nGrown for ultimate destruction, wrath, and awe."
+
+ACOT_BIOTITAN_STAGE_1_GROWTH_1: "$MAULER_STAGE_1_GROWTH_1$"
+ACOT_BIOTITAN_STAGE_1_GROWTH_1_DESC: "$MAULER_STAGE_1_GROWTH_1_DESC$"
+ACOT_BIOTITAN_STAGE_1_GROWTH_2: "$MAULER_STAGE_1_GROWTH_2$"
+ACOT_BIOTITAN_STAGE_1_GROWTH_2_DESC: "$MAULER_STAGE_1_GROWTH_2_DESC$"
+ACOT_BIOTITAN_STAGE_2_GROWTH_1: "$MAULER_STAGE_2_GROWTH_1$"
+ACOT_BIOTITAN_STAGE_2_GROWTH_1_DESC: "$MAULER_STAGE_2_GROWTH_1_DESC$"
+ACOT_BIOTITAN_STAGE_2_GROWTH_2: "$MAULER_STAGE_2_GROWTH_1$"
+ACOT_BIOTITAN_STAGE_2_GROWTH_2_DESC: "$MAULER_STAGE_2_GROWTH_2_DESC$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_1: "$MAULER_STAGE_3_GROWTH_1$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_1_DESC: "$MAULER_STAGE_3_GROWTH_1_DESC$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_2: "$MAULER_STAGE_3_GROWTH_2$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_2_DESC: "$MAULER_STAGE_3_GROWTH_2_DESC$"
+
+ACOT_BIOTITAN_STAGE_1_GROWTH_3: "Enhanced $ship_growth_stage_1$ Growth Gland"
+ACOT_BIOTITAN_STAGE_1_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_BIOTITAN_STAGE_2_GROWTH_3: "Enhanced $ship_growth_stage_2$ Growth Gland"
+ACOT_BIOTITAN_STAGE_2_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_3: "Enhanced $ship_growth_stage_3$ Growth Gland"
+ACOT_BIOTITAN_STAGE_3_GROWTH_3_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_3_DESC$"
+
+ACOT_BIOTITAN_STAGE_1_GROWTH_DM: "Enigmatic $ship_growth_stage_1$ Growth Gland"
+ACOT_BIOTITAN_STAGE_1_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_BIOTITAN_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
+ACOT_BIOTITAN_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
+ACOT_BIOTITAN_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+
+acot_bio_titan_class: "Conqueror"
+acot_bio_titan_class_cap: "Conqueror"
+acot_bio_titan_class_plural: "Conquerors"
+acot_bio_titan_class_plural_cap: "Conquerors"
+
+SHIP_GRAPHICS_ACOT_BIO_TITAN_STAGE_1_DESC: "Conquerors are massive, formidable ships equipped with titanic-sized weaponry and has access to powerful aura components that can support friendly fleets or disrupt their enemies."
+SHIP_GRAPHICS_ACOT_BIO_TITAN_STAGE_2_DESC: "$SHIP_GRAPHICS_ACOT_BIO_TITAN_STAGE_1_DESC$"
+SHIP_GRAPHICS_ACOT_BIO_TITAN_STAGE_3_DESC: "$SHIP_GRAPHICS_ACOT_BIO_TITAN_STAGE_1_DESC$"
+
+ACOT_BIO_TITAN_STAGE_ONE_ARTILLERY: "Juvenile (Artillery)"
+ACOT_BIO_TITAN_STAGE_ONE_CARRIER: "Juvenile (Carrier)"
+
+acot_bio_titan_stage_1: "Juvenile Conqueror"
+acot_bio_titan_stage_1_cap: "Juvenile Conqueror"
+acot_bio_titan_stage_1_plural: "Juvenile Conquerors"
+
+ACOT_BIO_TITAN_STAGE_TWO_ARTILLERY: "Mature (Artillery)"
+ACOT_BIO_TITAN_STAGE_TWO_CARRIER: "Mature (Carrier)"
+
+acot_bio_titan_stage_2: "Mature Conqueror"
+acot_bio_titan_stage_2_cap: "Mature Conqueror"
+acot_bio_titan_stage_2_plural: "Mature Conquerors"
+
+ACOT_BIO_TITAN_STAGE_THREE_ARTILLERY: "Elder (Artillery)"
+ACOT_BIO_TITAN_STAGE_THREE_CARRIER: "Elder (Carrier)"
+
+acot_bio_titan_stage_3: "Elder Conqueror"
+acot_bio_titan_stage_3_cap: "Elder Conqueror"
+acot_bio_titan_stage_3_plural: "Elder Conquerors"
+
+ACOT_BIO_TITAN_STAGE_FOUR_ARTILLERY: "§cPrimal (Artillery)§!"
+ACOT_BIO_TITAN_STAGE_FOUR_CARRIER: "§cPrimal (Carrier)§!"
+
+acot_bio_titan_stage_4: "Primal Conqueror"
+acot_bio_titan_stage_4_cap: "Primal Conqueror"
+acot_bio_titan_stage_4_plural: "Primal Conquerors"
+
+ACOT_BIO_TITAN_STAGE_FIVE: "Ascendant (Artillery)"
+
+acot_bio_titan_stage_5: "Ascendant Conqueror"
+acot_bio_titan_stage_5_cap: "Ascendant Conqueror"
+acot_bio_titan_stage_5_plural: "Ascendant Conquerors"
