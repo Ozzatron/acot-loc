@@ -158,89 +158,95 @@ tech_acot_army_morale_3_desc: "Fanatical beliefs are oft viewed as dangerous, fr
 #################################################### Defense Armies and Decisions ####################################################
 
 
-decision_acot_upgrade_garrison_1: "Defense Force Expansion"
-decision_acot_upgrade_garrison_1_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+############################ Defense Upgrade Decisions ############################
+
+acot_defense_upgrade_upkeep_reminder: "This will increase the upkeep costs of the defense armies. Upgraded armies give more war exhaustion if they are defeated."
+
+decision_acot_upgrade_garrison_1: "Expand Defense Forces"
+decision_acot_upgrade_garrison_1_desc: "Upgrades this planet's defense forces with an expanded arsenal, increasing their firepower and durability.\n$acot_defense_upgrade_upkeep_reminder$"
 
 acot_modifier_defense_upgrade_1: "Expanded Defense Force"
-acot_modifier_defense_upgrade_1_desc: "Expanded Defense Force provide the defending armies with increased firepower and defenses."
+acot_modifier_defense_upgrade_1_desc: "This planet's defense forces have been significantly upgraded with an expanded arsenal."
 
-decision_acot_upgrade_garrison_2: "Maximum Defense Force"
-decision_acot_upgrade_garrison_2_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+decision_acot_upgrade_garrison_2: "Maximize Defense Forces"
+decision_acot_upgrade_garrison_2_desc: "Further upgrades this planet's defense forces with the best equipment available, massively increasing their firepower and durability.\n$acot_defense_upgrade_upkeep_reminder$"
 
-acot_modifier_defense_upgrade_2: "Maximum Defense Force"
-acot_modifier_defense_upgrade_2_desc: "Upgrades the defense force to the maximum level, massively increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
+acot_modifier_defense_upgrade_2: "Maximized Defense Force"
+acot_modifier_defense_upgrade_2_desc: "This planet's defense forces have been massively upgraded and are armed to the teeth with the best equipment available."
+
+############################ Standard Defense Armies ############################
 
 defense_army: "Infantry Defense Force"
 defense_army_plural: "Infantry Defense Force"
-defense_army_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+defense_army_desc: "Typical planetary garrisons are staffed by capable, professional soldiers and equipped with a variety of modern armaments to fight off potential invaders. While they have high morale, they carry less firepower than assault armies to limit collateral damage to their homeland. As such, they will fall short against sustained or heavy assault without upgrades or backup."
 
 acot_defense_army_dm: "Delta Infantry Defense Force"
 acot_defense_army_dm_plural: "Delta Infantry Defense Forces"
-acot_defense_army_dm_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+acot_defense_army_dm_desc: "$defense_army_desc$"
 
 acot_defense_army_ae: "Alpha Infantry Defense Force"
 acot_defense_army_ae_plural: "Alpha Infantry Defense Forces"
-acot_defense_army_ae_desc: "By default, planetary garrisons are filled with capable soldiers armed with various kind of armaments to fight against potential invaders. They, however, pack less firepower than normal infantry to limit collateral damage. Eager to defend their homeland, defending forces have higher morale, but will fall short against heavy assaults without further upgrades and backup."
+acot_defense_army_ae_desc: "$defense_army_desc$"
 
 acot_defense_army_light: "Armored Defense Force"
 acot_defense_army_light_plural: "Armored Defense Forces"
-acot_defense_army_light_desc: "Formidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+acot_defense_army_light_desc: "A formidable garrison force composed of both large infantry regiments and armored divisions. With strong morale and no shortage of firepower, they stand ready to rapidly respond to and eliminate all intruders."
 
 acot_defense_army_light_dm: "Delta Armored Defense Force"
 acot_defense_army_light_dm_plural: "Delta Armored Defense Forces"
-acot_defense_army_light_dm_desc: "TFormidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+acot_defense_army_light_dm_desc: "$acot_defense_army_light_desc$"
 
 acot_defense_army_light_ae: "Alpha Armored Defense Force"
 acot_defense_army_light_ae_plural: "Alpha Armored Defense Forces"
-acot_defense_army_light_ae_desc: "Formidable garrison forces composing of large infantry regiments and armored divisions. The two forces work in unison to repel any intruders."
+acot_defense_army_light_ae_desc: "$acot_defense_army_light_desc$"
 
 acot_defense_army_heavy: "Elite Defense Force"
 acot_defense_army_heavy_plural: "Elite Defense Forces"
-acot_defense_army_heavy_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+acot_defense_army_heavy_desc: "A vast legion of elite, highly-trained garrison forces with cutting-edge equipment. Combining infantry, heavy armor and overwhelming air support, all but the most oppressive threats to their home will break upon them." 
 
 acot_defense_army_heavy_dm: "Delta Elite Defense Force"
 acot_defense_army_heavy_dm_plural: "Delta Elite Defense Forces"
-acot_defense_army_heavy_dm_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+acot_defense_army_heavy_dm_desc: "$acot_defense_army_heavy_desc$"
 
 acot_defense_army_heavy_ae: "Alpha Elite Defense Force"
 acot_defense_army_heavy_ae_plural: "Alpha Elite Defense Forces"
-acot_defense_army_heavy_ae_desc: "Legion of armies made up of infantry, armored, and air armada. These elites stand ready to destroy any who dares to threaten their home."
+acot_defense_army_heavy_ae_desc: "$acot_defense_army_heavy_desc$"
 
-############################
+############################ Undead Armies ############################
 
 acot_defense_undead_dm: "Undying Delta"
 acot_defense_undead_dm_plural: "Undying Deltas"
-acot_defense_undead_dm_desc: "Undying are raised up by military necromancers to help defend the homeland."
+acot_defense_undead_dm_desc: "Deathless troops raised up by militarized necromancers to defend the planet. They are exceptionally durable, albeit sluggish and single minded."
 
 acot_defense_undead_ae: "Undying Alpha"
 acot_defense_undead_ae_plural: "Undying Alphas"
-acot_defense_undead_ae_desc: "Undying are raised up by military necromancers to help defend the homeland."
+acot_defense_undead_ae_desc: "$acot_defense_undead_dm_desc$"
 
 acot_defense_undead_light: "Dread Undying"
 acot_defense_undead_light_plural: "Dread Undying"
-acot_defense_undead_light_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+acot_defense_undead_light_desc: "Dread Undying are stronger, larger, and more responsive to commands. These undead hulks can trample infantry and tear vehicles asunder with little effort."
 
 acot_defense_undead_light_dm: "Dread Undying Delta"
 acot_defense_undead_light_dm_plural: "Dread Undying Deltas"
-acot_defense_undead_light_dm_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+acot_defense_undead_light_dm_desc: "$acot_defense_undead_light_desc$"
 
 acot_defense_undead_light_ae: "Dread Undying Alpha"
 acot_defense_undead_light_ae_plural: "Dread Undying Alphas"
-acot_defense_undead_light_ae_desc: "Dread Undying are stronger, larger and slightly more responsive to the necromancer's command."
+acot_defense_undead_light_ae_desc: "$acot_defense_undead_light_desc$"
 
 acot_defense_undead_heavy: "Colossal Undying"
 acot_defense_undead_heavy_plural: "Colossal Undyings"
-acot_defense_undead_heavy_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+acot_defense_undead_heavy_desc: "The epitome of militarized necromancy, these gigantic lords of the undead rip through lesser foes like tissue paper with focused, unholy power. Each one takes an immense amount of firepower to subdue, and even more to destroy for good."
 
 acot_defense_undead_heavy_dm: "Colossal Undying Delta"
 acot_defense_undead_heavy_dm_plural: "Colossal Undying Deltas"
-acot_defense_undead_heavy_dm_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+acot_defense_undead_heavy_dm_desc: "$acot_defense_undead_heavy_desc$"
 
 acot_defense_undead_heavy_ae: "Colossal Undying Alpha"
 acot_defense_undead_heavy_ae_plural: "Colossal Undying Alphas"
-acot_defense_undead_heavy_ae_desc: "Only masters of the necromantic arts can hope to summon these colossal lord of the undead."
+acot_defense_undead_heavy_ae_desc: "$acot_defense_undead_heavy_desc$"
 
-############################
+############################ Machine Intelligence (Gestalt) Armies ############################
 
 robotic_defense_army: "Enforcer Droid"
 robotic_defense_army_plural: "Enforcer Droids"
@@ -278,7 +284,7 @@ acot_defense_robot_heavy_ae: "Alpha Supreme Enforcer Droid"
 acot_defense_robot_heavy_ae_plural: "Alpha Supreme Enforcer Droids"
 acot_defense_robot_heavy_ae_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
 
-############################
+############################ Individualist Machine Armies ############################
 
 individual_machine_defense: "Defense Battle Form"
 individual_machine_defense_plural: "Defense Battle Forms"
@@ -316,7 +322,7 @@ acot_defense_individual_machine_heavy_ae: "Alpha Eternal Battle Form"
 acot_defense_individual_machine_heavy_ae_plural: "Alpha Eternal Battle Forms"
 acot_defense_individual_machine_heavy_ae_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
 
-############################
+############################ Fanatic Guardian Armies ############################
 
 fanatic_guardian: "Fanatic Guardian"
 fanatic_guardian_plural: "Fanatic Guardians"
@@ -354,7 +360,7 @@ acot_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
 acot_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
 acot_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
 
-############################
+############################ Machine Fanatic Guardian Armies ############################
 
 machine_fanatic_guardian: "Fanatic Guardian"
 machine_fanatic_guardian_plural: "Fanatic Guardians"
@@ -392,7 +398,7 @@ acot_machine_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
 acot_machine_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
 acot_machine_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
 
-############################
+############################ Hive Fanatic Guardian Armies ############################
 
 acot_hive_fanatic_guardian: "Fanatic Guardian"
 acot_hive_fanatic_guardian_plural: "Fanatic Guardians"
@@ -430,7 +436,7 @@ acot_hive_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
 acot_hive_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
 acot_hive_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
 
-###################### SPECIAL GARRISON ARMY ######################
+############################ Special Garrison Armies ############################
 
 acot_garrison_army: "Delta Black Guard"
 acot_garrison_army_plural: "Delta Black Guards"
@@ -445,7 +451,8 @@ acot_garrison_army_giga_plural: "Giga Cannons"
 acot_garrison_army_giga_desc: "Massive Cannons deployed from the Giga Fortress that will make short work of primitive forces."
  
 
-################################ ATTACKING ARMY ################################
+#################################################### Assault Armies ####################################################
+
 
 ################ INFANTRY AUTO ARMOR
 
