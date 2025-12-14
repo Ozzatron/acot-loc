@@ -286,41 +286,41 @@ acot_defense_robot_heavy_ae_desc: "Deadliest versions of Enforcer Droids with fu
 
 ############################ Individualist Machine Armies ############################
 
-individual_machine_defense: "Defense Battle Form"
-individual_machine_defense_plural: "Defense Battle Forms"
-individual_machine_defense_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+individual_machine_defense: "Defense Battle Frame"
+individual_machine_defense_plural: "Defense Battle Frames"
+individual_machine_defense_desc: "Composite machines of war formed by placing individual units into durable exo-shells purpose-built for combat. Substantially more resilent than organic soldiers, these mass-produced frames form the backbone of planetary defense for a machine empire."
 
-acot_defense_individual_machine_dm: "Delta Defense Battle Form"
-acot_defense_individual_machine_dm_plural: "Delta Defense Battle Forms"
-acot_defense_individual_machine_dm_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+acot_defense_individual_machine_dm: "Delta Defense Battle Frame"
+acot_defense_individual_machine_dm_plural: "Delta Defense Battle Frames"
+acot_defense_individual_machine_dm_desc: "$individual_machine_defense_desc$"
 
-acot_defense_individual_machine_ae: "Alpha Defense Battle Form"
-acot_defense_individual_machine_ae_plural: "Alpha Defense Battle Forms"
-acot_defense_individual_machine_ae_desc: "Defense Battleforms defend the Machine Empire's colonies. Their durable exo-shells make them more resilent than organic counterparts."
+acot_defense_individual_machine_ae: "Alpha Defense Battle Frame"
+acot_defense_individual_machine_ae_plural: "Alpha Defense Battle Frames"
+acot_defense_individual_machine_ae_desc: "$individual_machine_defense_desc$"
 
-acot_defense_individual_machine_light: "Guardian Battle Form"
-acot_defense_individual_machine_light_plural: "Guardian Battle Forms"
-acot_defense_individual_machine_light_desc: "Guadian Battle Form Units have access to more varied selections of arsenals, making them more suitable to handle heavier attacks from enemy invasion forces."
+acot_defense_individual_machine_light: "Guardian Mech"
+acot_defense_individual_machine_light_plural: "Guardian Mechs"
+acot_defense_individual_machine_light_desc: "Exceptionally nimble and heavily armed combat vehicles which individual units can slot into as pilots. Vectored thrusters on all parts enable these mechs to engage on any terrain at any distance, including serving as aircraft."
 
-acot_defense_individual_machine_light_dm: "Delta Guardian Battle Form"
-acot_defense_individual_machine_light_dm_plural: "Delta Guardian Battle Forms"
-acot_defense_individual_machine_light_dm_desc: "Guadian Battle Form Units have access to more varied selections of arsenals, making them more suitable to handle heavier attacks from enemy invasion forces."
+acot_defense_individual_machine_light_dm: "Delta Guardian Mech"
+acot_defense_individual_machine_light_dm_plural: "Delta Guardian Mechs"
+acot_defense_individual_machine_light_dm_desc: "$acot_defense_individual_machine_light_desc$"
 
-acot_defense_individual_machine_light_ae: "Alpha Guardian Battle Form"
-acot_defense_individual_machine_light_ae_plural: "Alpha Guardian Battle Forms"
-acot_defense_individual_machine_light_ae_desc: "Guadian Battle Form Units have access to more varied selections of arsenals, making them more suitable to handle heavier attacks from enemy invasion forces."
+acot_defense_individual_machine_light_ae: "Alpha Guardian Mech"
+acot_defense_individual_machine_light_ae_plural: "Alpha Guardian Mechs"
+acot_defense_individual_machine_light_ae_desc: "$acot_defense_individual_machine_light_desc$"
 
-acot_defense_individual_machine_heavy: "Eternal Battle Form"
-acot_defense_individual_machine_heavy_plural: "Eternal Battle Forms"
-acot_defense_individual_machine_heavy_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
+acot_defense_individual_machine_heavy: "Eternal Frame"
+acot_defense_individual_machine_heavy_plural: "Eternal Frames"
+acot_defense_individual_machine_heavy_desc: "Eternal Frames are enormous, modular bastions of consolidated military might that keep vigil over their home planets. With full access to all weapons and systems necessary to quell any hostility, they can articulate and adapt to invading threats of any scale."
 
-acot_defense_individual_machine_heavy_dm: "Delta Eternal Battle Form"
-acot_defense_individual_machine_heavy_dm_plural: "Delta Eternal Battle Forms"
-acot_defense_individual_machine_heavy_dm_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
+acot_defense_individual_machine_heavy_dm: "Delta Eternal Frame"
+acot_defense_individual_machine_heavy_dm_plural: "Delta Eternal Frames"
+acot_defense_individual_machine_heavy_dm_desc: "$acot_defense_individual_machine_heavy_desc$"
 
-acot_defense_individual_machine_heavy_ae: "Alpha Eternal Battle Form"
-acot_defense_individual_machine_heavy_ae_plural: "Alpha Eternal Battle Forms"
-acot_defense_individual_machine_heavy_ae_desc: "Eternal Battle Form subgroups are given full access to all weapons and systems necessary to quell any hostility to the Machine Colony."
+acot_defense_individual_machine_heavy_ae: "Alpha Eternal Frame"
+acot_defense_individual_machine_heavy_ae_plural: "Alpha Eternal Frames"
+acot_defense_individual_machine_heavy_ae_desc: "$acot_defense_individual_machine_heavy_desc$"
 
 ############################ Fanatic Guardian Armies ############################
 
