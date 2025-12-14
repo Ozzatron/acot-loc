@@ -86,18 +86,20 @@ decision_acot_hatch_cocoon_tooltip: "Hatches any surviving cocoons that did not 
 decision_acot_repair_fortification: "Repair Fortification"
 decision_acot_repair_fortification_desc: "Repairs all damaged planetary fortifications, restoring and replacing any destroyed walls and batteries in the process. Repairing is always faster and cheaper than rebuilding the fortifications from scratch."
 
+acot_wall_destruction_reminder: "If any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+
 decision_acot_upgrade_fortification: "Defensive Wall"
-decision_acot_upgrade_fortification_desc: "Upgrades the colony's lines of defense with dedicated reinforced walls. Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch.\n\nThe number of walls added is based on the planet's size, starting at 4 at planet size §Y10§! and below and increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
+decision_acot_upgrade_fortification_desc: "Upgrades the colony's lines of defense with dedicated reinforced walls. Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\n$acot_wall_destruction_reminder$\n\nThe number of walls added is based on the planet's size, starting at 4 at planet size §Y10§! and below and increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
 
 acot_modifier_fortification_1: "Reinforced Fortification Wall"
-acot_modifier_fortification_1_desc: "Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+acot_modifier_fortification_1_desc: "Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\n$acot_wall_destruction_reminder$"
 
 acot_modifier_damaged_fortification_1: "Damaged Fortification Walls"
-acot_modifier_damaged_fortification_1_desc: "These defensive walls have been damaged and must be repaired.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+acot_modifier_damaged_fortification_1_desc: "These defensive walls have been damaged and must be repaired.\n\n$acot_wall_destruction_reminder$"
 
 acot_defensive_wall: "Reinforced Fortification Wall"
 acot_defensive_wall_plural: "Reinforced Fortification Walls"
-acot_defensive_wall_desc: "Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+acot_defensive_wall_desc: "Fortification walls act as extra protection for the colony and its stationed defense armies, if any, and can buy time in case of ground invasion.\n\n$acot_wall_destruction_reminder$"
 acot_defensive_wall_dm: "Delta Fortification Wall"
 acot_defensive_wall_dm_plural: "Delta Fortification Walls"
 acot_defensive_wall_dm_desc: "$acot_defensive_wall_desc$"
@@ -110,17 +112,17 @@ acot_defensive_wall_se_desc: "$acot_defensive_wall_desc$"
 
 
 decision_acot_upgrade_fortification_2: "Defensive Batteries"
-decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with weapon batteries which will provide fire support against invading armies.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch.\n\nThe number of walls added is based on the planet's size, starting at 4 at planet size §Y10§! and below and increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
+decision_acot_upgrade_fortification_2_desc: "Upgrades the colony's reinforced walls with weapon batteries which will provide fire support against invading armies.\n\n$acot_wall_destruction_reminder$\n\nThe number of walls added is based on the planet's size, starting at 4 at planet size §Y10§! and below and increasing by §Y2§! for every §Y5§! planet size up to §Y30§!."
 
 acot_modifier_fortification_2: "Reinforced Fortification Batteries"
-acot_modifier_fortification_2_desc: "Dedicated fortification walls equipped with powerful weapon batteries which will provide fire support against invading armies.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+acot_modifier_fortification_2_desc: "Dedicated fortification walls equipped with powerful weapon batteries which will provide fire support against invading armies.\n\n$acot_wall_destruction_reminder$"
 
 acot_modifier_damaged_fortification_2: "Damaged Fortification Batteries"
-acot_modifier_damaged_fortification_2_desc: "These defensive batteries have been damaged and must be repaired.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+acot_modifier_damaged_fortification_2_desc: "These defensive batteries have been damaged and must be repaired.\n\n$acot_wall_destruction_reminder$"
 
 acot_defensive_cannon: "Reinforced Fortification Batteries"
 acot_defensive_cannon_plural: "Reinforced Fortification Batteries"
-acot_defensive_cannon_desc: "Dedicated fortification walls equipped with powerful weapon batteries which will provide fire support against invading armies.\n\nIf any walls are destroyed in battle, they must be repaired. If all walls are destroyed, they must be rebuilt from scratch."
+acot_defensive_cannon_desc: "Dedicated fortification walls equipped with powerful weapon batteries which will provide fire support against invading armies.\n\n$acot_wall_destruction_reminder$"
 acot_defensive_cannon_dm: "Delta Fortification Batteries"
 acot_defensive_cannon_dm_plural: "Delta Fortification Batteries"
 acot_defensive_cannon_dm_desc: "$acot_defensive_cannon_desc$"
@@ -152,7 +154,9 @@ tech_acot_army_morale_2_desc: "In the past, individual soldiers may have fought 
 tech_acot_army_morale_3: "Fanaticism"
 tech_acot_army_morale_3_desc: "Fanatical beliefs are oft viewed as dangerous, fraught with shortcomings and a loss of perspective. Philosophers peddling these views live cushy lives that involve a distinct lack of incoming missiles. A truly zealous soldier can accomplish feats that astonish even the most loyal citizen. They will fight and die for the cause, even if they themselves may not fully understand it."
 
-################ DEFENDING ARMY ################
+
+#################################################### Defense Armies and Decisions ####################################################
+
 
 decision_acot_upgrade_garrison_1: "Defense Force Expansion"
 decision_acot_upgrade_garrison_1_desc: "Upgrades the defense force with extra arsenal expansion, greatly increasing the defense's force power. The upkeep costs of the defense armies will also be increased, as well as their war exhaustion cost."
