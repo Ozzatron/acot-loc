@@ -250,39 +250,39 @@ acot_defense_undead_heavy_ae_desc: "$acot_defense_undead_heavy_desc$"
 
 robotic_defense_army: "Enforcer Droid"
 robotic_defense_army_plural: "Enforcer Droids"
-robotic_defense_army_desc: "Enforcer Droids are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+robotic_defense_army_desc: "Mass-produced but resilient battle droids manufactured in a variety of specialized forms. Commanded in unison by the machine's powerful defense grid network, each droid's simple capabilities combine to form an all-encompassing and devastating defensive force."
 
 acot_defense_robot_dm: "Delta Enforcer Droid"
 acot_defense_robot_dm_plural: "Delta Enforcer Droids"
-acot_defense_robot_dm_desc: "Enforcer Droids are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+acot_defense_robot_dm_desc: "$robotic_defense_army_desc$"
 
 acot_defense_robot_ae: "Alpha Enforcer Droid"
 acot_defense_robot_ae_plural: "Alpha Enforcer Droids"
-acot_defense_robot_ae_desc: "Enforcer Droids are light security units designed to patrol and defend the planet using the machine's powerful defense grid network."
+acot_defense_robot_ae_desc: "$robotic_defense_army_desc$"
 
-acot_defense_robot_light: "Heavy Enforcer Droid"
-acot_defense_robot_light_plural: "Delta Enforcer Droids"
-acot_defense_robot_light_desc: "Stronger variants of Enforcer Droids with heavier fire supports including armored units and aerial supremacy."
+acot_defense_robot_light: "Lord-class Enforcer"
+acot_defense_robot_light_plural: "Lord-class Enforcers"
+acot_defense_robot_light_desc: "Ruthless and far-reaching, Lord-class Enforcers scour their home planets clean of opposition as a simple matter of programming. Boasting heavy onboard fire support, Lord-class units carry their own reinforcements including laser artillery drones and aerial supremacy."
 
-acot_defense_robot_light_dm: "Delta Heavy Enforcer Droid"
-acot_defense_robot_light_dm_plural: "Delta Heavy Enforcer Droids"
-acot_defense_robot_light_dm_desc: "Stronger variants of Enforcer Droids with heavier fire supports including armored units and aerial supremacy."
+acot_defense_robot_light_dm: "Lord-class Delta Enforcer"
+acot_defense_robot_light_dm_plural: "Lord-class Delta Enforcers"
+acot_defense_robot_light_dm_desc: "$acot_defense_robot_light_desc$"
 
-acot_defense_robot_light_ae: "Alpha Heavy Enforcer Droid"
-acot_defense_robot_light_ae_plural: "Alpha Heavy Enforcer Droids"
-acot_defense_robot_light_ae_desc: "Stronger variants of Enforcer Droids with heavier fire supports including armored units and aerial supremacy."
+acot_defense_robot_light_ae: "Lord-class Alpha Enforcer"
+acot_defense_robot_light_ae_plural: "Lord-class Alpha Enforcers"
+acot_defense_robot_light_ae_desc: "$acot_defense_robot_light_desc$"
 
-acot_defense_robot_heavy: "Supreme Enforcer Droid"
-acot_defense_robot_heavy_plural: "Supreme Enforcer Droids"
-acot_defense_robot_heavy_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
+acot_defense_robot_heavy: "Tyrant-class Enforcer"
+acot_defense_robot_heavy_plural: "Tyrant-class Enforcers"
+acot_defense_robot_heavy_desc: "The pinnacle of Enforcers, Tyrant-class units field staggeringly lethal weaponry and defenses befitting a mobile citadel. Each carries swathes of vicious autonomous combat robots and has nigh limitless reinforcements at its disposal."
 
-acot_defense_robot_heavy_dm: "Delta Supreme Enforcer Droid"
-acot_defense_robot_heavy_dm_plural: "Delta Supreme Enforcer Droids"
-acot_defense_robot_heavy_dm_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
+acot_defense_robot_heavy_dm: "Tyrant-class Delta Enforcer"
+acot_defense_robot_heavy_dm_plural: "Tyrant-class Delta Enforcers"
+acot_defense_robot_heavy_dm_desc: "$acot_defense_robot_heavy_desc$"
 
-acot_defense_robot_heavy_ae: "Alpha Supreme Enforcer Droid"
-acot_defense_robot_heavy_ae_plural: "Alpha Supreme Enforcer Droids"
-acot_defense_robot_heavy_ae_desc: "Deadliest versions of Enforcer Droids with full access to all military units at their disposal."
+acot_defense_robot_heavy_ae: "Tyrant-class Alpha Enforcer"
+acot_defense_robot_heavy_ae_plural: "Tyrant-class Alpha Enforcers"
+acot_defense_robot_heavy_ae_desc: "$acot_defense_robot_heavy_desc$"
 
 ############################ Individualist Machine Armies ############################
 
