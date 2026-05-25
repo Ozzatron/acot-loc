@@ -326,130 +326,130 @@ acot_defense_individual_machine_heavy_ae_desc: "$acot_defense_individual_machine
 
 fanatic_guardian: "Fanatic Guardian"
 fanatic_guardian_plural: "Fanatic Guardians"
-fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+fanatic_guardian_desc: "These champions of the loyal and zealous masses dedicate their lives to protecting their home planet. Equipped and trained with military rigor, their immense morale allows them to weather assaults from even the deadliest of foes."
 
 acot_fanatic_guardian_dm: "Delta Fanatic Guardian"
 acot_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"
-acot_fanatic_guardian_dm_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_fanatic_guardian_dm_desc: "$fanatic_guardian_desc$"
 
 acot_fanatic_guardian_ae: "Alpha Fanatic Guardian"
 acot_fanatic_guardian_ae_plural: "Alpha Fanatic Guardians"
-acot_fanatic_guardian_ae_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_fanatic_guardian_ae_desc: "$fanatic_guardian_desc$"
 
 acot_fanatic_guardian_light: "Fanatic Cabal"
 acot_fanatic_guardian_light_plural: "Fanatic Cabals"
-acot_fanatic_guardian_light_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_fanatic_guardian_light_desc: "No longer a mere angry mob organized into a militia, these fanatics are supported by substantial entrenched defenses. Backed up by long range artillery and air support, their righteous vigor is all the more evident as an assembled force."
 
 acot_fanatic_guardian_light_dm: "Delta Fanatic Cabal"
 acot_fanatic_guardian_light_dm_plural: "Delta Fanatic Cabals"
-acot_fanatic_guardian_light_dm_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_fanatic_guardian_light_dm_desc: "$acot_fanatic_guardian_light_desc$"
 
 acot_fanatic_guardian_light_ae: "Alpha Fanatic Cabal"
 acot_fanatic_guardian_light_ae_plural: "Alpha Fanatic Cabals"
-acot_fanatic_guardian_light_ae_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_fanatic_guardian_light_ae_desc: "$acot_fanatic_guardian_light_desc$"
 
 acot_fanatic_guardian_heavy: "Fanatic Legion"
 acot_fanatic_guardian_heavy_plural: "Fanatic Legions"
-acot_fanatic_guardian_heavy_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_fanatic_guardian_heavy_desc: "A legion of faithful servants of the empire, seemingly limitless in both number and fervor and replete with columns of armored vehicles and corresponding air armada. Only the most overbearing invasion forces can even hope to break their morale."
 
 acot_fanatic_guardian_heavy_dm: "Delta Fanatic Legion"
 acot_fanatic_guardian_heavy_dm_plural: "Delta Fanatic Legions"
-acot_fanatic_guardian_heavy_dm_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_fanatic_guardian_heavy_dm_desc: "$acot_fanatic_guardian_heavy_desc$"
 
 acot_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
 acot_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
-acot_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_fanatic_guardian_heavy_ae_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-############################ Machine Fanatic Guardian Armies ############################
+############################ Individualist Machine Fanatic Guardian Armies ############################
 
-machine_fanatic_guardian: "Fanatic Guardian"
-machine_fanatic_guardian_plural: "Fanatic Guardians"
-machine_fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+machine_fanatic_guardian: "$fanatic_guardian$"
+machine_fanatic_guardian_plural: "$fanatic_guardian_plural$"
+machine_fanatic_guardian_desc: "$fanatic_guardian_desc$"
 
-acot_machine_fanatic_guardian_dm: "Delta Fanatic Guardian"
-acot_machine_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"
-acot_machine_fanatic_guardian_dm_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_machine_fanatic_guardian_dm: "$acot_fanatic_guardian_dm$"
+acot_machine_fanatic_guardian_dm_plural: "$acot_fanatic_guardian_dm_plural$"
+acot_machine_fanatic_guardian_dm_desc: "$fanatic_guardian_desc$"
 
-acot_machine_fanatic_guardian_ae: "Alpha Fanatic Guardian"
-acot_machine_fanatic_guardian_ae_plural: "Alpha Fanatic Guardians"
-acot_machine_fanatic_guardian_ae_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_machine_fanatic_guardian_ae: "$acot_fanatic_guardian_ae$"
+acot_machine_fanatic_guardian_ae_plural: "$acot_fanatic_guardian_ae_plural$"
+acot_machine_fanatic_guardian_ae_desc: "$fanatic_guardian_desc$"
 
-acot_machine_fanatic_guardian_light: "Fanatic Cabal"
-acot_machine_fanatic_guardian_light_plural: "Fanatic Cabals"
-acot_machine_fanatic_guardian_light_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_machine_fanatic_guardian_light: "$acot_fanatic_guardian_light$"
+acot_machine_fanatic_guardian_light_plural: "$acot_fanatic_guardian_light_plural$"
+acot_machine_fanatic_guardian_light_desc: "$acot_fanatic_guardian_light_desc$"
 
-acot_machine_fanatic_guardian_light_dm: "Delta Fanatic Cabal"
-acot_machine_fanatic_guardian_light_dm_plural: "Delta Fanatic Cabals"
-acot_machine_fanatic_guardian_light_dm_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_machine_fanatic_guardian_light_dm: "$acot_fanatic_guardian_light_dm$"
+acot_machine_fanatic_guardian_light_dm_plural: "$acot_fanatic_guardian_light_dm_plural$"
+acot_machine_fanatic_guardian_light_dm_desc: "$acot_fanatic_guardian_light_desc$"
 
-acot_machine_fanatic_guardian_light_ae: "Alpha Fanatic Cabal"
-acot_machine_fanatic_guardian_light_ae_plural: "Alpha Fanatic Cabals"
-acot_machine_fanatic_guardian_light_ae_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_machine_fanatic_guardian_light_ae: "$acot_fanatic_guardian_light_ae$"
+acot_machine_fanatic_guardian_light_ae_plural: "$acot_fanatic_guardian_light_ae_plural$"
+acot_machine_fanatic_guardian_light_ae_desc: "$acot_fanatic_guardian_light_desc$"
 
-acot_machine_fanatic_guardian_heavy: "Fanatic Legion"
-acot_machine_fanatic_guardian_heavy_plural: "Fanatic Legions"
-acot_machine_fanatic_guardian_heavy_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_machine_fanatic_guardian_heavy: "$acot_fanatic_guardian_heavy$"
+acot_machine_fanatic_guardian_heavy_plural: "$acot_fanatic_guardian_heavy_plural$"
+acot_machine_fanatic_guardian_heavy_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-acot_machine_fanatic_guardian_heavy_dm: "Delta Fanatic Legion"
-acot_machine_fanatic_guardian_heavy_dm_plural: "Delta Fanatic Legions"
-acot_machine_fanatic_guardian_heavy_dm_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_machine_fanatic_guardian_heavy_dm: "$acot_fanatic_guardian_heavy_dm$"
+acot_machine_fanatic_guardian_heavy_dm_plural: "$acot_fanatic_guardian_heavy_dm_plural$"
+acot_machine_fanatic_guardian_heavy_dm_desc: "$acot_fanatic_guardian_heavy_desc$"
 
-acot_machine_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
-acot_machine_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
-acot_machine_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_machine_fanatic_guardian_heavy_ae: "$acot_fanatic_guardian_heavy_ae$"
+acot_machine_fanatic_guardian_heavy_ae_plural: "$acot_fanatic_guardian_heavy_ae_plural$"
+acot_machine_fanatic_guardian_heavy_ae_desc: "$acot_fanatic_guardian_heavy_desc$"
 
 ############################ Hive Fanatic Guardian Armies ############################
 
-acot_hive_fanatic_guardian: "Fanatic Guardian"
-acot_hive_fanatic_guardian_plural: "Fanatic Guardians"
-acot_hive_fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+hive_fanatic_guardian: "$fanatic_guardian$"
+hive_fanatic_guardian_plural: "$fanatic_guardian_plural$"
+hive_fanatic_guardian_desc: "HIVE FANATIC GUARDIAN TIER 1 DESCRIPTION"
 
-acot_hive_fanatic_guardian_dm: "Delta Fanatic Guardian"
-acot_hive_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"
-acot_hive_fanatic_guardian_dm_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_hive_fanatic_guardian_dm: "$acot_fanatic_guardian_dm$"
+acot_hive_fanatic_guardian_dm_plural: "$acot_fanatic_guardian_dm_plural$"
+acot_hive_fanatic_guardian_dm_desc: "$hive_fanatic_guardian_desc$"
 
-acot_hive_fanatic_guardian_ae: "Alpha Fanatic Guardian"
-acot_hive_fanatic_guardian_ae_plural: "Alpha Fanatic Guardians"
-acot_hive_fanatic_guardian_ae_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_hive_fanatic_guardian_ae: "$acot_fanatic_guardian_ae$"
+acot_hive_fanatic_guardian_ae_plural: "$acot_fanatic_guardian_ae_plural$"
+acot_hive_fanatic_guardian_ae_desc: "$hive_fanatic_guardian_desc$"
 
-acot_hive_fanatic_guardian_light: "Fanatic Cabal"
-acot_hive_fanatic_guardian_light_plural: "Fanatic Cabals"
-acot_hive_fanatic_guardian_light_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_hive_fanatic_guardian_light: "$acot_fanatic_guardian_light$"
+acot_hive_fanatic_guardian_light_plural: "$acot_fanatic_guardian_light_plural$"
+acot_hive_fanatic_guardian_light_desc: "HIVE FANATIC GUARDIAN TIER 2 DESCRIPTION"
 
-acot_hive_fanatic_guardian_light_dm: "Delta Fanatic Cabal"
-acot_hive_fanatic_guardian_light_dm_plural: "Delta Fanatic Cabals"
-acot_hive_fanatic_guardian_light_dm_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_hive_fanatic_guardian_light_dm: "$acot_fanatic_guardian_light_dm$"
+acot_hive_fanatic_guardian_light_dm_plural: "$acot_fanatic_guardian_light_dm_plural$"
+acot_hive_fanatic_guardian_light_dm_desc: "$acot_hive_fanatic_guardian_light_desc$"
 
-acot_hive_fanatic_guardian_light_ae: "Alpha Fanatic Cabal"
-acot_hive_fanatic_guardian_light_ae_plural: "Alpha Fanatic Cabals"
-acot_hive_fanatic_guardian_light_ae_desc: "Once a simple angry mobs of defenders, these fanatics are now supported by armored defenses as well as an inspiring leader."
+acot_hive_fanatic_guardian_light_ae: "$acot_fanatic_guardian_light_ae$"
+acot_hive_fanatic_guardian_light_ae_plural: "$acot_fanatic_guardian_light_ae_plural$"
+acot_hive_fanatic_guardian_light_ae_desc: "$acot_hive_fanatic_guardian_light_desc$"
 
-acot_hive_fanatic_guardian_heavy: "Fanatic Legion"
-acot_hive_fanatic_guardian_heavy_plural: "Fanatic Legions"
-acot_hive_fanatic_guardian_heavy_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_hive_fanatic_guardian_heavy: "$acot_fanatic_guardian_heavy$"
+acot_hive_fanatic_guardian_heavy_plural: "$acot_fanatic_guardian_heavy_plural$"
+acot_hive_fanatic_guardian_heavy_desc: "HIVE FANATIC GUARDIAN TIER 3 DESCRIPTION"
 
-acot_hive_fanatic_guardian_heavy_dm: "Delta Fanatic Legion"
-acot_hive_fanatic_guardian_heavy_dm_plural: "Delta Fanatic Legions"
-acot_hive_fanatic_guardian_heavy_dm_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_hive_fanatic_guardian_heavy_dm: "$acot_fanatic_guardian_heavy_dm$"
+acot_hive_fanatic_guardian_heavy_dm_plural: "$acot_fanatic_guardian_heavy_dm_plural$"
+acot_hive_fanatic_guardian_heavy_dm_desc: "$acot_hive_fanatic_guardian_heavy_desc$"
 
-acot_hive_fanatic_guardian_heavy_ae: "Alpha Fanatic Legion"
-acot_hive_fanatic_guardian_heavy_ae_plural: "Alpha Fanatic Legions"
-acot_hive_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and defenders of the empire, armed to the teeth with weapons, armors, and heavy fire support from vehicles, aircrafts and artilleries. Only the most powerful invasion forces can hope to break their morale."
+acot_hive_fanatic_guardian_heavy_ae: "$acot_fanatic_guardian_heavy_ae$"
+acot_hive_fanatic_guardian_heavy_ae_plural: "$acot_fanatic_guardian_heavy_ae_plural$"
+acot_hive_fanatic_guardian_heavy_ae_desc: "$acot_hive_fanatic_guardian_heavy_desc$"
 
 ############################ Special Garrison Armies ############################
 
 acot_garrison_army: "Delta Black Guard"
 acot_garrison_army_plural: "Delta Black Guards"
-acot_garrison_army_desc: "Elite garrison forces from the Emissary who are sworn to protect their new homefront till their deaths."
+acot_garrison_army_desc: "Elite garrison forces deployed by the Emissary. The regiment is sworn to protect the new homefront until their deaths."
  
 acot_garrison_army_droid: "Deltron Defender"
 acot_garrison_army_droid_plural: "Deltron Defenders"
-acot_garrison_army_droid_desc: "Advanced Defense Units installed from the Emissary programmed to guard its new homefront till their destruction."
+acot_garrison_army_droid_desc: "Exquisite defense units installed by the Emissary. Each is programmed to secure the new homefront perimeter until it is destroyed in battle."
  
 acot_garrison_army_giga: "Giga Cannon"
 acot_garrison_army_giga_plural: "Giga Cannons"
-acot_garrison_army_giga_desc: "Massive Cannons deployed from the Giga Fortress that will make short work of primitive forces."
- 
+acot_garrison_army_giga_desc: "Colossal multipart cannon assemblies detached from the planetside Giga Fortress. Their blistering arsenal of incredibly versatile weaponry will make short work of anything in atmosphere, and even tear apart bombarding space armadas."
+
 
 #################################################### Assault Armies ####################################################
 
