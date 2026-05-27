@@ -402,7 +402,7 @@ acot_machine_fanatic_guardian_heavy_ae_desc: "$acot_fanatic_guardian_heavy_desc$
 
 hive_fanatic_guardian: "$fanatic_guardian$"
 hive_fanatic_guardian_plural: "$fanatic_guardian_plural$"
-hive_fanatic_guardian_desc: "HIVE FANATIC GUARDIAN TIER 1 DESCRIPTION"
+hive_fanatic_guardian_desc: "Emboldened both by loyalty to the Hive and to the faith, these unusually zealous drones guard their burrows with a fury unbefitting their obedience."
 
 acot_hive_fanatic_guardian_dm: "$acot_fanatic_guardian_dm$"
 acot_hive_fanatic_guardian_dm_plural: "$acot_fanatic_guardian_dm_plural$"
@@ -414,7 +414,7 @@ acot_hive_fanatic_guardian_ae_desc: "$hive_fanatic_guardian_desc$"
 
 acot_hive_fanatic_guardian_light: "$acot_fanatic_guardian_light$"
 acot_hive_fanatic_guardian_light_plural: "$acot_fanatic_guardian_light_plural$"
-acot_hive_fanatic_guardian_light_desc: "HIVE FANATIC GUARDIAN TIER 2 DESCRIPTION"
+acot_hive_fanatic_guardian_light_desc: "Well-organized columns of fanatical drones equally obsessed with the safety of the Hive and the defense of the faith. Hulking integrated defenses and autonomous combat vehicles bolster their firepower immensely, sending a clear message to all who would challenge their belief."
 
 acot_hive_fanatic_guardian_light_dm: "$acot_fanatic_guardian_light_dm$"
 acot_hive_fanatic_guardian_light_dm_plural: "$acot_fanatic_guardian_light_dm_plural$"
@@ -426,7 +426,7 @@ acot_hive_fanatic_guardian_light_ae_desc: "$acot_hive_fanatic_guardian_light_des
 
 acot_hive_fanatic_guardian_heavy: "$acot_fanatic_guardian_heavy$"
 acot_hive_fanatic_guardian_heavy_plural: "$acot_fanatic_guardian_heavy_plural$"
-acot_hive_fanatic_guardian_heavy_desc: "HIVE FANATIC GUARDIAN TIER 3 DESCRIPTION"
+acot_hive_fanatic_guardian_heavy_desc: "An endless sea of soldier drones that stretches as far as the eye can see. Every inch bristles with extensive heavy weaponry and the boundless legion moves and operates as a single organism guided by unbreakable conviction."
 
 acot_hive_fanatic_guardian_heavy_dm: "$acot_fanatic_guardian_heavy_dm$"
 acot_hive_fanatic_guardian_heavy_dm_plural: "$acot_fanatic_guardian_heavy_dm_plural$"
